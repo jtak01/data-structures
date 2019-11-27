@@ -1,0 +1,10 @@
+i ACGTA
+i CGT
+i TCGTA
+i GTCAG
+i ACGGA
+i CGTAAG
+i TCGTAG
+n
+r ACGTA
+n

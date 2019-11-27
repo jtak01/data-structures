@@ -1,0 +1,91 @@
+ACGT inserted
+CGTATTAT inserted
+TGGGTGAACGA inserted
+There are 23 nodes in the database
+AACGTGT inserted
+AACGTGT
+ACGT
+CGTATTAT
+TGGGTGAACGA
+TCGATA inserted
+GCAT inserted
+GGTA inserted
+AACGTGT
+ACGT
+CGTATTAT
+GCAT
+GGTA
+TCGATA
+TGGGTGAACGA
+There are 41 nodes in the database
+GGTA removed
+ATGTC: No match found
+ACGT removed
+TGGGTGAACGA removed
+There are 25 nodes in the database
+TTTT inserted
+TCGT inserted
+TAGT inserted
+TTAA inserted
+There are 34 nodes in the database
+TTTT removed
+TAGT removed
+There are 29 nodes in the database
+AACGTGT
+TCGATA
+TCGT
+TTAA
+GCAT
+Match found: TCGT 75%
+Match found: TCGT 50%
+Match found: AACGTGT 14%
+Match found: GCAT 25%
+AGTAGGTAC inserted
+Match found: CGTATTAT 13%
+AAA inserted
+AGTC inserted
+TGACG inserted
+CCGTA inserted
+TGACG
+TGCAGTATATA: No match found
+Match found: TCGT 33%
+Match found: GCAT 25%
+Match found: AAA 13%
+AAA
+AACGTGT
+AGTAGGTAC
+AGTC
+CCGTA
+CGTATTAT
+GCAT
+TCGATA
+TCGT
+TGACG
+TTAA
+AAA
+AACGTGT
+AGTAGGTAC
+AGTC
+CCGTA
+CGTATTAT
+GCAT
+TCGATA
+TCGT
+TGACG
+TTAA
+Match found: AGTAGGTAC 67%
+Match found: TGACG 80%
+Match found: TCGT 40%
+AAA removed
+AGTC removed
+There are 45 nodes in the database
+AACGTGT
+AGTAGGTAC
+CCGTA
+CGTATTAT
+GCAT
+TCGATA
+TCGT
+TGACG
+TTAA
+There are 0 nodes in the database

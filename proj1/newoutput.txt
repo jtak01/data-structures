@@ -1,0 +1,17 @@
+TTTT inserted
+TCGT inserted
+TAGT inserted
+TTAA inserted
+There are 47 nodes in the database
+TTTT removed
+TAGT removed
+There are 45 nodes in the database
+AACGTGT
+TTAA
+GCAT
+AACGTGT
+CGTATTAT
+GCAT
+TCGATA
+TCGT
+TTAA

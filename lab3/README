@@ -1,0 +1,93 @@
+/**********************************************************
+* Lab 3: Circular Lists
+* Comp 15 Spring 2019 
+* README
+* Author: Tanya Sinha
+*
+*********************************************************/
+
+Program Purpose: This lab assignment is to learn about CircularSequences. 
+The idea of a circular array is that the end of the array “wraps around” 
+to the start of the array. 
+In this lab, Comp 15 students are helping the DJ filter songs using a 
+SequenceStack (last in first out) and a SequenceQueue. Both the SequenceStack 
+and SequenceQueue (first in first out) are implemented using an object of 
+CircularSequence class. 
+
+
+Acknowledgements: I read about Circular Sequence on: 
+http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/8-List/array-queue2.html
+to learn about the data structure. I also got help from my lab TA Lawrence
+when the order of my planets were not being printed correctly. 
+*REPLACE THIS WITH YOUR OWN ACKNOWLEDGMENTS* (unless of course you actually
+did both of these things).
+
+Run command: Run executable with "./partyPlaylist"
+
+Files: 
+
+CircularSequence.cpp: Implementation of a standard CircularSequence class. 
+Pre-written is a default constructor, an overloaded constructor, a destructor,
+and an addAtBack function that adds a given element to the back of the list, 
+and a print function that prints the contents of the sequence, one element per
+line.  
+
+STUDENT TODO: 
+Write a nextIndex helper function that returns the next index given an index
+in the sequence. Also, write an addAtFront function that adds an element to 
+the "front" of the sequence, a removeFromBack function that removes an element
+in the sequence and returns, a removeFromFront function that removes the
+first element in the sequence and returns it, and an expand function that
+exapnds the circular array.
+
+CircularSequence.h: Interface of CircularSequence class. 
+
+SequenceQueue.cpp: Implementation of SequenceQueue class. There is a default 
+constructor and destructor, but there is nothing to do here because 
+the sequence constructor and destructor runs automatically. A print function
+is provided for you to use during testing. 
+
+STUDENT TODO:
+Write an enqueue function that adds a new element to the back of the queue,
+a dequeue function that removes the first element in the queue and returns
+it. 
+
+SequenceQueue.h: Interface of SequenceQueue class. The SequenceQueue is 
+implemented using a CircularSequence. It has one private data member: 
+CircularSequence queue.
+
+
+SequenceStack.cpp: Implementation of SequenceStack class. There is a default
+constructor and destructor, but there is nothing to do here because 
+the sequence constructor and destructor runs automatically. A print function
+is provided for you to use during testing. 
+
+STUDENT TODO:
+Write a push function that adds a given element to the top of the stack,
+a pop function that removes the top element from the stack and returns it. 
+
+SequenceStack.h: Interface of the SequenceStack class. The SequenceStack is
+implemented using a CircularSequence. It has one private data member: 
+CircularSequence stack.
+
+Data Structures: The main data structure of this lab is a circular sequence.
+A circular sequence is a dynamic sequence with the unique property that the
+end of the array "wraps around" to the start of the array. This gives users
+the ability to add elements to the front and remove elements from the front. 
+
+
+Testing: Here describe the following: process of testing 
+(unit tests), mention of bugs you encountered while testing,
+mention of testing on inputs of different sizes and edge
+cases, good description of base cases you considered while
+testing. Demonstrate a methodical approach to testing. This 
+section of your REAMDE should be very thorough for homework
+assignments. 
+
+Brief Example: For this lab, I tested my functions using main.cpp. I created 
+three separate testing functions: testCircularSequence, testSequenceStack, and
+testSequenceQueue. Within each testing function, I tested each individual 
+function that I wrote and compared the output by printing the CircularSequence. 
+I tested my function with edge cases and compared it to the expected output.
+For CircularSequence, I added more songs than initial capacity, so that the
+expand function would have to be invoked...

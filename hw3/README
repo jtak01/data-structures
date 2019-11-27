@@ -1,0 +1,75 @@
+/**********************************************************
+* HW3: Metro Simulator
+* Comp 15 Spring 2019 
+* README
+* Author: Hayden Wolff
+*
+*********************************************************/
+
+Compile/run: Compile using "make MetroSim", run executable with
+"./MetroSim stationsFile passFile [commands]"
+
+Program Purpose: This homework assignment handles a running train
+to accomodate passengers arriving/departing a metro. Learn how to
+design and modularize code and work with documented libraries.
+
+Acknowledgements: 
+
+Files: 
+main.cpp: STUDENT TO-DO: Main file should be short and handle 
+simple driver functions such as reading in files. 
+
+MetroSim.cpp: STUDENT TO-DO: Implementation of MetroSim class.
+Main functionality of running the Metro Simulation, should be
+able to move trains and deal with passengers going on/off the 
+train. 
+
+MetroSim.h: STUDENT TO-DO: Interface of MetroSim class.
+
+Station.cpp: Implementation of Station class. Allows for various
+functions related to accessing the information of the Station
+class and modifying passengers. 
+
+Station.h: Interface of Station class.
+
+stations.txt: an example file containing a list of stations.
+
+test_commands.txt: sample list of commands that you could give to
+the simulator
+
+Data Structures: Vectors
+
+Testing: Here describe the following: process of testing 
+(unit tests), mention of bugs you encountered while testing,
+mention of testing on inputs of different sizes and edge
+cases, good description of base cases you considered while
+testing. Demonstrate a methodical approach to testing. This 
+section of your REAMDE should be very thorough for homework
+assignments. 
+
+In my unit test I tested all the functions required to run the 
+MetroSim program. testSetMax() sees if the setMaxStations() runs
+as I intended. testMove() sees if the train moves as I intended.
+It should move forwards when the program starts and/or when currPos
+of the train is 1. If it moves forward correctly it then sees if the 
+train moves backwards correctly. If the train moves correctly for 
+both cases then the moveStation() works properly. This test function
+also sees if directionTracker() works properly. Train can only move
+when directionTracker() works as intended since it is the function 
+that determines whether the train should go forwards or backwards.
+testSpawn() tests if the spawnPassenger() works as intended. It 
+sees if the passenger that was spawned is indeed in the train vector.
+It further compares the variables in the Passenger struct to see if 
+the function assigns accurate informations to those varibles. 
+testTrain() and testTrainReverse() checks if the train is able to 
+load and unload passengers in correct order and station. The two 
+functions checks both when the train is moving forwards and backwards.
+It checks this by comparing the size of the train vector. After it 
+unloads properly the size of the vector should be 0. 
+Initially there was a bug in this function because the passengers left 
+after the train left the station that the passenger was supposed to get off
+at instead of leaving the train right when the train arrives at the station.
+I remedied this by adjusting the index values of the trainUnload().
+
+Note: This homework comes partially implemented, but student must
+also create the driver and add class functionality.

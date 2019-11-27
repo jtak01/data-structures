@@ -1,0 +1,2 @@
+Passenger 1 left train at station 6
+Passenger 2 left train at station 8

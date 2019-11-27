@@ -1,0 +1,81 @@
+/**********************************************************
+* PROJ1: SeqMatch
+* Comp 15 Spring 2019 
+* README
+* Modified by: Jun Sung Tak
+* Original file from README from the homeworks
+*
+*********************************************************/
+
+Compile/run: Compile using "make", run executable with
+"./SeqMatch [query file] [output file]"
+
+Program Purpose: This project is a Dna sequence matching program 
+that is implemented with a trie
+
+Acknowledgements: Consulted Kevin Li and Andrew Vu when I was stuck 
+
+Files: 
+the_SeqMatch: The reference implementation given by the Computer Science
+Department
+
+
+Data Structures: Trie, structs, arrays, and vector
+
+Testing: Here describe the following: process of testing 
+(unit tests), mention of bugs you encountered while testing,
+mention of testing on inputs of different sizes and edge
+cases, good description of base cases you considered while
+testing. Demonstrate a methodical approach to testing. This 
+section of your REAMDE should be very thorough for homework
+assignments. 
+ 
+NOTE: WHEN COMPILING THE UNIT TEST, MOVE ALL THE FUNCTIONS AND PRIVATE MEMBER
+VARIABLES INTO THE PUBLIC SECTION FOR IT TO COMPILE PROPERLY. ALSO COMPILE WITH
+"clang++ -Wall -Wextra -std=c++11 -g Dna.cpp unit-test.cpp".
+
+In my unit-testing I tested the following functions: insert, nodeCount, remove,
+deleteAll, preFixQ, and query. Insert was tested by inserting a bunch of 
+sequences and then seeing if certain nodes were in the right place (a.root -> 
+child[0] -> child[1] ... etc ... -> data). There weren't any problems with this
+function. Then the nodeCount was tested by adding a bunch of sequences and then
+counting nodes and then removing  a sequence and then counting the node again. 
+At first it was not working as intended so I tried to debug the count function, 
+which did not solve anything. Then upon investigating the remove function I realized
+that remove only switched off the 'end' variable to false to the last characters
+of the sequence. Then when testing the remove function after it has been fixed 
+proved to be working correctly. So far insert, remove, and nodeCount worked as
+intended. Testing the deleteAll function was relatively easy and did not encounter
+many problems. I made sure that the counting nodes on a trie after deleteAll 
+returned 0. PreFixQ was a little difficult to test due to how my prgrom is set up
+PreFixQ just prints to the output file, thus I realized that if the preFixQ function
+returned true that it works fine. Therefore, so I tried a bunch of prefixQs and 
+checked that they returned true and false so that I could test if it works by 
+putting in values that should and should not work. Finally for the query function
+also due to how the function works I tested individual values of its helper functions.
+Specifically testing the correct values for the calculation portions, I made sure 
+the function worked the correct way this way. Although this may seem as if it does
+not fully test the function but it does due to the following reason:
+When it is the calculate the percentage, it must mean that the function retrieved
+the correct sequence with the correct lenght of the sequence. Thus, if the values
+for the helper functions are all correct, not only am I verifying that the function
+retrieves the correct sequence, I am also able to verify that the percentage 
+calculation is also correct. Of course, the entire program was run with different
+query files and compared to the output produced by the reference implementation and 
+I ran diff to make sure that the two produced files were identical. 
+
+main.cpp: Not really a class but this file declares a Dna object and calls the 
+driver function which is in the Dna class.  
+
+Dna class: This class implements the trie and (prefix) query functions. It also
+has a function that keeps the entire program running (calling approporiate 
+functions according to the query file input). 
+
+The time complexity of my solution is actually not too ideal. Due to the reason
+that all the query candidate sequences are first stored in a vector then the 
+shortest string is found. This makes my solution O(n) but it is still a lot 
+more efficient because the function partly makes use of how tries work.
+
+The space complexity of my solution is O(n) as well n representing the number
+of nodes in the trie. That is because for each node there will be 4 additional 
+childs, which is O(4n). But since 4 is a constant the space complexity is O(n).  

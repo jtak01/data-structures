@@ -1,0 +1,56 @@
+i ACGT
+i CGTATTAT
+i TGGGTGAACGA
+n
+i AACGTGT
+p
+i TCGATA
+i GCAT
+i GGTA
+p
+n
+r GGTA
+r ATGTC
+r ACGT
+r TGGGTGAACGA
+n
+i TTTT
+i TCGT
+i TAGT
+i TTAA
+n
+r TTTT
+r TAGT
+n
+pq A
+pq T
+pq GC
+q TCG
+q TC
+q A
+q GT
+i AGTAGGTAC
+q CAGT
+i AAA
+i AGTC
+i TGACG
+i CCGTA
+pq TG
+pq TGCAGTATATA
+q TCGGAACAT
+q GATC
+q ACGTGAGT
+p
+pq A
+pq C
+pq G
+pq T
+q AGTAGG
+q TGACA
+q TCAGA
+r AAA
+r AGTC
+n
+p
+d
+p

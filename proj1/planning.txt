@@ -1,0 +1,67 @@
+Author: Jun Sung Tak
+UTLN: jtak01
+Date: 6/3/2019
+Comp 15 
+Proj1 Week 1
+TA: Clara Oppenheimer
+TAing on 4/6/2019 around 3 o'clock-ish
+
+planning.txt
+
+
+1) I intend to use a trie for this project. That is because the project
+is essentially storing strings and finding the matches of different string.
+Thus, using data structures such as dynamic arrays is too inefficient for 
+this purpose. Therefore, by using a trie I am able to write an algorithm 
+that can check each character by character in a very efficient way. It is 
+also important to note that for this data structure, although it can be 
+efficient, it is also memory consuming. 
+Additionally, each node is struct and it contains the node's data (char)
+and a pointer to a children array of size 5 (A, C, G, T, $). 
+
+2) 
+Insert: Given a string, pop off the first character and put it into a node. 
+If the current node does not have a node for the 2nd character of the string
+then a new node is inserted. 
+If the current node does have a node for the 2nd character then it does not 
+add another node but it moves on to that node and checks for the 3rd 
+character. This is repeated until the end of string.
+
+Query: Given a string, first go to the node with the first character. After 
+that as long as there are children nodes of that node, keep moving onto that
+node. Once there arent anymore children nodes then return the %match of 
+the SHORTEST sequence. If the first character cannot be found then just 
+print that the sequence does not exist. 
+
+Remove: Sequences will be removed from the bottom. Given a string, first 
+find a sequence that matches EXACTLY. Once that is found start from the 
+most bottom node of the sequence, which is $. Everytime the algorithm moves
+onto the node to be deleted, it should check if that node is connected to 
+a sequence that contains $. So the deletion stops once the next node to 
+delete is in a sequence with a $.
+
+3) Even though a trie does take up a lot of memory, it is extremely time
+efficient with dealing with requests such as the query request since the 
+algorithm must check if each character of the string is the same. 
+
+4) I will write one class, probably called SeqTrie and another file to run
+the entire program, probably called main.cpp. There will be while loop that 
+keeps the program runnning until read file is over. As my algorithm reads
+the read file, depending on the first character of the file it will call
+different functions. Some of the important functions that are not mentioned
+by the spec that I will implement is a function that can traverse the entire
+array, a function that can check if a node belongs to a sequence that 
+contains $. 
+
+5) I did not get any coding done thus far. 
+
+6) If root does not have any children nodes then just return. 
+For loop until i reaches the size of the array of the node, if the node 
+has children node that contains a character, then call the function again 
+with the children node. 
+
+void traverse (Node *node, char children[])
+for (int i = 0; i < size_of_array; i++)
+	if (node -> children[i] exists)
+		traverse(node -> children [i], children)
+

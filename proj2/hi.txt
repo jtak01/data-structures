@@ -1,0 +1,94 @@
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/9/1/6/19169/19169.txt:62: h i j k l m n
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/9/6/10965/10965.txt:70:     a b e d e f g h i j k l m n o p q r
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/9/6/10965/10965.txt:80:    _a b e d e f g h i j k l m n o p q r
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/4/10742/10742.txt:51: a b e d e f g h i j k
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/4/10742/10742.txt:76: I [Illustration: Ibex.] i
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/8/3/10834/10834.txt:71: a b c d e f g h i j k l m n o p q r s t u v w x y z.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/8/3/10834/10834.txt:79: _a b c d e f g h i j k l m n o p q r s t u v w x y z_.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:57: a b d e g h i j k l m n ng
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:75: [Illustration: i  inar.]
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:142: immanuel kakuldone "layaru taiyanunga." i layaru
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:272: " i as i in marine
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:273: " i as i in it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:278: " ai as i in wine
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/7/11073/11073.txt:191: I i
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/6/11065/11065.txt:98:       F f   G g   H h   I i   J j
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/6/11065/11065.txt:110:      y  x  b  i  w  c  j  l  s  u
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/8/9/3/18937/18937.txt:83:   I i   K k
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/0/8/14081/14081.txt:72: An' one said, "Mind yo'r e'en, an' keep yo'r noses reet i' th' wind
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:120: i j k l
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:289: it   stand   Ann's   is   lamp   mat   i
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:399: i   y   ch   w
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:465: e   i   v
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1185: r  i  m   rim
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1190: k  i  d   kid
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1197: v  i  z   viz
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1198: i  v  y   ivy
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1218: i  j  k  l  m  n  o  p  q
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:214: _laan_, a curse, and _m[=a]loun_, accursed."--_Layard_, vol. i. p. 297.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:496: [Illustration: "O, et praesidium, et dulce decus."--HOR Lib. i. Ode i.]
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/4/5/12458/12458.txt:168: i.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8709/8709.txt:194: white apparel.--Acts i, 1-10
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8703/8703.txt:295: So they two went until they came to Beth-lehem.--Ruth i, 1-19.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8704/8704.txt:451: Kings i, 2-17.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:55: after 600 B.C., is mentioned by name (Isaiah, xliv, 28; xlv, i); and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:128: priest Buzi. (Ezekiel i, 3). He was probably born about 620 or 630 years
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:135: calls it, "the land of the Chaldeans." (Ezekiel i, 3). Here, along with
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:137: (Ezekiel i, 1-3), in a house of his own (viii, i). Here also he married,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:150: prophet's captivity (Ezekiel xxvi, 1-2; XI, i). The present text is very
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:211: noble if not of royal descent (Daniel i, 3). When, in the third year of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:215: Jewish youth, was educated for three years (Daniel i, 3-7). At this time
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:216: Daniel acquired the power of interpreting dreams (i, 17), which he used
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:431: (Amos i, i; vii, 14). This occupation he gave up for that of prophet
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/8/8788/8788.txt:445: He flapp'd i' th' air, that from him issued still
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10571/10571/10571.txt:529: a ferocious glance upon the speaker.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10562/10562/10562.txt:82: speaker with an offensive stare.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/8/5/8/18589/18589.txt:112: Passed to be enacted,          CHARLES A. PHELPS, Speaker.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/3/12132/12132.txt:59: "It's a well-known fact," interrupted the first speaker firmly, "that
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12125/12125.txt:94: opposite the speaker, slowly filled a long clay and took a spill from the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12129/12129.txt:425: finished, and a second later the speaker found himself alone, watching
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12211/12211.txt:376: "And what 'appened?"  inquired the first speaker.  "I'll tell you after
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/5/9/2/5927/5927.txt:80: perceived that the speaker was a man clad in what seemed to be a loose
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/9/1/6/19169/19169.txt:62: h i j k l m n
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/9/6/10965/10965.txt:70:     a b e d e f g h i j k l m n o p q r
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/9/6/10965/10965.txt:80:    _a b e d e f g h i j k l m n o p q r
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/4/10742/10742.txt:51: a b e d e f g h i j k
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/4/10742/10742.txt:76: I [Illustration: Ibex.] i
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/8/3/10834/10834.txt:71: a b c d e f g h i j k l m n o p q r s t u v w x y z.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/8/3/10834/10834.txt:79: _a b c d e f g h i j k l m n o p q r s t u v w x y z_.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:57: a b d e g h i j k l m n ng
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:75: [Illustration: i  inar.]
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:142: immanuel kakuldone "layaru taiyanunga." i layaru
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:272: " i as i in marine
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:273: " i as i in it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:278: " ai as i in wine
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/7/11073/11073.txt:191: I i
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/6/11065/11065.txt:98:       F f   G g   H h   I i   J j
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/6/11065/11065.txt:110:      y  x  b  i  w  c  j  l  s  u
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/8/9/3/18937/18937.txt:83:   I i   K k
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/0/8/14081/14081.txt:72: An' one said, "Mind yo'r e'en, an' keep yo'r noses reet i' th' wind
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:120: i j k l
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:289: it   stand   Ann's   is   lamp   mat   i
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:399: i   y   ch   w
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:465: e   i   v
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1185: r  i  m   rim
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1190: k  i  d   kid
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1197: v  i  z   viz
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1198: i  v  y   ivy
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1218: i  j  k  l  m  n  o  p  q
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:214: _laan_, a curse, and _m[=a]loun_, accursed."--_Layard_, vol. i. p. 297.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/3/9/7/13978/13978.txt:496: [Illustration: "O, et praesidium, et dulce decus."--HOR Lib. i. Ode i.]
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/4/5/12458/12458.txt:168: i.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8709/8709.txt:194: white apparel.--Acts i, 1-10
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8703/8703.txt:295: So they two went until they came to Beth-lehem.--Ruth i, 1-19.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8704/8704.txt:451: Kings i, 2-17.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:55: after 600 B.C., is mentioned by name (Isaiah, xliv, 28; xlv, i); and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:128: priest Buzi. (Ezekiel i, 3). He was probably born about 620 or 630 years
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:135: calls it, "the land of the Chaldeans." (Ezekiel i, 3). Here, along with
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:137: (Ezekiel i, 1-3), in a house of his own (viii, i). Here also he married,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:150: prophet's captivity (Ezekiel xxvi, 1-2; XI, i). The present text is very
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:211: noble if not of royal descent (Daniel i, 3). When, in the third year of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:215: Jewish youth, was educated for three years (Daniel i, 3-7). At this time
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:216: Daniel acquired the power of interpreting dreams (i, 17), which he used
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/0/8705/8705.txt:431: (Amos i, i; vii, 14). This occupation he gave up for that of prophet
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/8/7/8/8788/8788.txt:445: He flapp'd i' th' air, that from him issued still

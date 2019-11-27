@@ -1,0 +1,88 @@
+/**********************************************************
+* HW4: BinarySearchTree
+* Comp 15 Spring 2019 
+* README
+* Modified by: Jun Sung Tak
+* Original file from README from hw3
+*
+*********************************************************/
+
+Compile/run: Compile using "make", run executable with
+"./hw4"
+
+Program Purpose: This homework implements a BST (Binary Search Tree)
+
+Acknowledgements: Original files from the computer science department.
+For that reason not everything was written by me. All the functions that 
+were required to be written however was written by me. 
+
+Files: 
+main.cpp: Given by the computer science department. I was not to change it
+
+BinarySearchTree.cpp: STUDENT TO-DO: Implementation of BinarySearchTree class.
+Main functionality of the BinarySearchTree, should be
+able to compute various attributes of the BST and insert and remove elements.
+
+BinarySearchTree.h: Was given by the computer science department. I added 
+two helper functions (newNode() and remove_helper())
+
+pretty_print.cpp: Was given by the computer science department. Original file
+is borrowed from leetcode.com
+
+
+Data Structures: BST (Binary Search Tree)
+
+Testing: Here describe the following: process of testing 
+(unit tests), mention of bugs you encountered while testing,
+mention of testing on inputs of different sizes and edge
+cases, good description of base cases you considered while
+testing. Demonstrate a methodical approach to testing. This 
+section of your REAMDE should be very thorough for homework
+assignments. 
+
+In my unit-testing I tested the following functions: remove, insert, 
+find_min, find_max, contains, node_count, count_total, and tree_height.
+Remove by far was the most difficult to make right. There were so many 
+cases that must be accounted for. For example, one of my bugs was that the 
+remove would fail when it would try to remove a node that was in a z-formation
+For example, if I had 3 nodes with values 3, 1, and 2 and 3's left was 1 and 
+1's right was 2. Before fixing the function, if a left node was to be deleted
+the parent node of that node will just point to the node's left. So to fix 
+the issue, I had to put a condition that will properly link the parent node 
+to the right instead of the left. Furthermore, when I was testnig the case
+for when the node to delete had 2 children I had an error where the node
+that replaces the deleted node was not deleting. It was very confusing and was
+stuck here for a while but I eventually realized that it was because my 
+algorithm for deleting a node with children was incorrect. This was fixed by 
+making sure that the node's parent was pointing to NULL. After this, all the 
+tests in my unit-test was working. Find_min and find_max were not as hard to 
+implement since all that needs to happen is to traverse as left or right as
+possible. Despite this, it was still rigorously tested including when the 
+min/max values were changed, when the tree had one node. These test all came 
+out to be true. The case where the tree was empty was not tested since it is
+clear that the functions will return INT_MIN and INT_MAX from looking at the 
+functions themselves. The insert and contains function were tested together 
+since it felt that they can work together very well. The test comprised of
+inserting values and seeing if the contains function returns true. The case
+where a number that was already present in the BST was being added was 
+tested by comparing the node's count variable to what it should be. 
+Node_count was very buggy at first because there was a counter variable that
+would increment evreytime it traversed to a new node. This was buggy because
+when the function was called recusively, it would change the value of the 
+counter to 0 everytime. Therefore it was changed by implementing the function
+so that it will add 1 to everytime it went to a new node. This fixed the bug. 
+Count_total was also a rather straight forward. It was tested when there was
+a duplicate of certain nodes, when a node was removed and when a new node was
+added. Also it was tested when the tree was empty, which it was supposed to 
+return 0 (and it does). Finally the last function tested was the tree_height
+function. This was tested by first testing if the original tree's height was
+what was expected to be (6) in the unit-test's case. Then the tree was 
+changed. Removing and inserting elements in the longest branch of the tree 
+(since this was the height that is retrned), removing and inserting in other
+branches and made sure that the height did not change. Finally the case when 
+the tree was empty and had one element was tested.
+
+
+
+Note: This homework comes partially implemented, but student must
+implement the required function and provide an unit-test.

@@ -1,0 +1,77 @@
+/*********************************************************
+* Homework 2: Linked Lists
+* Comp 15 Spring 2019 
+* README
+* Author: Jun Sung Tak
+*
+*********************************************************/
+
+Compile/run: Compile using "make train-conductor", run executable with
+"./train-conductor"
+
+Program Purpose: This homework assignment covers linked lists. The station
+class must be implemented with: a parameterized constructor, isEqual, and
+Print. The LinkedList class must also be implemented with: A standard
+destructor, insertStation, removeStation, makeEmpty, Print, and 
+getNextStation. 
+
+Acknowledgements: 
+
+Files: 
+
+train-conductor.cpp: Fully implemented driver. Opens a file, reads in
+station names, and inserts them into a linked list (along with deleting)
+a few. 
+
+LinkedList.cpp: Implementation of a standard LinkedList class. To be written 
+in this class by the student are a destructor, insertStation,
+removeStation, makeEmpty, Print, and getNextStation. 
+
+LinkedList.h: Interface of LinkedList class.
+
+NodeType.h: Small struct defining a unit of information for the LinkedList class.
+
+Station.cpp: Station class implementation to be implemented by the student.
+Write a default constructor, parameterized constructor, print, isEqual,
+getAccess, and getName.
+
+Station.h: Station class interface to be written by the student. 
+
+glx.txt: Text file of stations with Y/N accessibility.
+
+reference_all_stations.txt: Reference implementation of result printing
+the ontouched list after insertion. It will be in reverse order of insert.
+Can be used with diff to test correctness of student program. 
+
+reference_remove_some.txt: Reference implementation of result after
+removing some stations. Can be used with diff to test correctness of
+student program.
+
+Data Structures: The main data structure of this lab is a singly linked list.
+Inserting into a linked list is O(1), as an element can either be inserted
+at the head or tail. Access is O(n), because worst case the element that is
+being looked for is the last element in the list. A linked list is useful
+because it can be used dynamically and it is easy to insert and delete.
+
+Testing: Here describe the following: process of testing 
+(unit tests), mention of bugs you encountered while testing,
+mention of testing on inputs of different sizes and edge
+cases, good description of base cases you considered while
+testing. Demonstrate a methodical approach to testing. This 
+section of your REAMDE should be very thorough for homework
+assignments. 
+
+Firstly when implementing a lot of the LinkedList.cpp I ran into a lot of 
+segmentation faults. I solved this issue by inserting numerous cerr commands
+in both LinkedList.cpp and train-conductor.cpp. After the program seemed to 
+not have any segmentation faults I tested some more functions by modifying 
+the train-conductor.cpp. To make sure the makeEmpty function worked correctly
+after the program printed all the stations I ran makeEmpty then printed 
+again. This proved to confirm that makeEmpty does indeed work correctly 
+because in all_stations.txt the first line printed all the stations and then
+second line and third line was empty. This proves that it functions the way
+it's supposed to since if the makeEmpty wasn't run it would just print all 
+stations and only have a second line that is empty, the third line was not 
+there. 
+
+Note: This homework comes partially implemented. 

@@ -1,0 +1,958 @@
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/9/1/6/19169/19169.txt:61: a b c d e f g
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/9/6/10965/10965.txt:70:     a b e d e f g h i j k l m n o p q r
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/9/6/10965/10965.txt:80:    _a b e d e f g h i j k l m n o p q r
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:138: arter a time Smith said as 'ow p'r'aps they'd better leave off, and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:149: with a black-lead pencil 'e put the numbers on, while everybody leaned
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:195: Smith rolled out the paper, and then 'e turned pale and 'is eyes seemed
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:221: I never see a man so astonished in my life as Bob Pretty was, when 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:223: there scratching his 'ead, as if he didn't know where 'e was.  He come
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:260: When 'e came back it was all quiet and everybody was staring their
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:264: looking as if 'e saw something crawling on the wall.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:268: Dicky Weed didn't answer 'im.  He shut his eyes tight and then 'e jumps
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:326: It seemed a wunnerful good idea, and Bill Chambers said so; and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:336: everything separate," 'e ses, very slow.  "If Bob Pretty ses it's 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:372: Pretty got up and said 'e must be going, Bill Chambers caught 'old of him
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:376: 'e said 'e really must be going, as his wife was expecting 'im.  He
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:380: "Mind you," ses Bill Chambers, looking round, "if 'e comes back and ses
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:386: "He'll come up 'ere and tell us," ses Bill Chambers.  "It's time 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10790/10790/10790.txt:393: emptied it, and then 'e sat down on a seat gasping for breath.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:92: evenin' when he didn't know wot he was doing, and for years arterwards 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:179: comforted 'et was that Bill would be in licker, and also that 'e would
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:185: minutes 'e was fast asleep, and pore Mrs. Burtenshaw, arter trying her
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:198: infant.  Silas did two more groans, and then 'e leaned over the foot o'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:199: the bed, and stared at Bill, as though 'e couldn't believe his eyesight.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:218: He stood there sulky for a moment, and then 'e invented a noise that
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:226: caught sight of Silas standing there than 'e gave a dreadful 'owl and,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:227: rolling over, wropped 'imself up in all the bed-clothes 'e could lay his
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:285: Bill put his 'ead up and looked, and then 'e gave a dreadful scream and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:328: Then 'e took 'is arm in agin and lay there wondering wot was going to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:364: Bill did as 'e was told, and then 'e lay and trembled, as Silas gave
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:381: eyes 'e went downstairs and emptied a little barrel o' beer down the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:382: sink.  For the fust two or three days 'e went about with a thirst that
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:384: time it went off, and then, like all teetotallers, 'e began to run down
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:387: [Illustration: "With tears in his eyes 'e emptied a little barrel o' beer
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:390: The fust thing 'e did when 'e got his money on Friday was to send off a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:400: to 'er if 'e found out 'ow she'd been deceiving 'im.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/9/10792/10792/10792.txt:466: mouth when 'e began to speak.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:53: for it.  Do a man a kindness, and years arterwards 'e comes along and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:62: Do a man a kindness, he continued, assuming a safer posture, and 'e tries
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:65: horse bit a sailorman I knew once, when 'e sat on its head to 'elp it get
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:70: break the news to 'is pal's wife.  A kind-'earted man 'e was as ever you
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:85: Sam owed 'im and finding it was a bad 'un, that 'e went off to spend the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:89: 'e began to take a brighter view of things.  He found a very nice, cosey
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:121: Sam said he didn't mind if 'e did, and arter drinking each other's
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:122: healths very perlite 'e ordered a couple o' twopenny smokes, and by way
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:166: Sam said 'e would, and arter they had 'ad another drink together the tec
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:177: two beauties the idea that 'e is three sheets in the wind.  They come up
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:286: They wouldn't let 'im go to sleep for talking, and at last, when 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:290: 'e had finished.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:310: up three times to tell 'im wot a fool 'e was, but 'e got so fierce that
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:329: chaps he spoke about, and when 'e comes 'ome complaining to us we'll tell
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:362: for liquor, 'e was so lifelike.  Many a drunken man would ha' been proud
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:378: For 'arf a minute Ginger didn't know where 'e was, and afore he found out
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10783/10783/10783.txt:394: "Who'd ha' thought 'e could ha' hit like that?" says Ginger.  "That's wot
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:66: hiding indoors for a week, and then made him ship a fortnight afore 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:86: "I b'leeve so," ses Peter, in a off-hand way.  "I don't s'pose 'e lives
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:110: don't do to throw away a chance.  If 'e was my uncle I should pretend to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:111: be a teetotaller while 'e was here, just to please 'im."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:123: me pretending to be steady if 'e sees I've got pals like you?"
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:162: His uncle nodded.  "Ah, so it does," 'e ses.  "It's all the same whether
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:172: "I held 'im in my arms when 'e was a baby," ses Mr. Goodman, looking at
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:215: Sam lost 'is presence o' mind, and afore he knew wot 'e was doing 'im and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:232: do 'im much good.  Wot with temper and dryness 'e could 'ardly bid Peter
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:253: idea was to get off with Ginger and make a night of it, and when 'e found
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:292: Sam said 'e wasn't very tired, and he walked along wondering whether Mr.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:293: Goodman was quite right in his 'ead.  For one thing, 'e seemed upset
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:302: Peter enjoyed it.  I s'pose 'e is a very strict teetotaller?"
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:320: last 'e walked in and sat down on a tall stool that stood agin the bar,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:337: thought 'e must be dreaming.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:354: though 'e didn't know wot to do with it, took a sip and let it roll round
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:391: Mr. Goodman didn't answer 'im because 'e was joining in the chorus with
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:393: just nodded at 'im; but 'e looked so 'appy that Sam felt it was a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:409: drink, 'e don't go to places of amusement--innercent places of amusement
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:435: peppermint lozenges wot 'e always carried about with 'im, and took some
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:436: 'imself.  He said 'e found 'em helpful.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:466: high opinion 'is uncle 'ad got of 'im, and 'ow well off he was, 'e gave
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:477: for the thoughts o' that five pounds.  The more 'e thought of it the more
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:519: 'Owever, to pacify 'im he promised to do wot 'e was told, and next
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10788/10788/10788.txt:547: 'im in such a surprised and disappointed sort o' way that 'e didn't like
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:59: till 'e went to sea agin.  She was a very obstinate woman, though--like
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:68: O' course, by this time 'e was tired of soldiering, but wot upset 'im
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:167: 'air, and when 'e was dressed in bracelets round 'is ankles and wrists,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:198: find out that 'e wasn't a real Zulu, because the manager said they'd tear
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:250: clothes; consequently 'is feelings when 'e opened one eye and saw George
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:267: Rupert asked him to let 'im have it then, but 'e wouldn't, and for
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:268: another week he 'ad to pretend 'e was a Zulu of an evening, and try and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:274: and ship as a nigger cook if 'e couldn't get the black off.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:286: four Rupert turned nasty, and said 'e was afraid he was trying to get
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:288: ha'-past he said 'e was something I won't repeat.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10781/10781/10781.txt:436: to my 'ouse.  I wanted Rupert to go somewhere else, but 'e said he 'ad
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:63: everything; and that 'andsome is as 'andsome does.  Even then 'e wasn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:203: He complained to Ted about it when 'e got 'ome, and Ted promised as it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:246: Charlie said "Nobody could," and then 'e walked along with her hanging on
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:248: bus that was passing, and arf wondering whether 'e could do it if it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:271: been with 'em all the time, and when 'e spoke to Emma about it she said
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:273: Charlie.  For four nights running 'e went out for walks, with Emma
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:280: Charlie shook 'ands with 'im, but 'e said 'e wouldn't walk out with Mrs.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:294: present, and they're going to be married as soon as 'e comes back."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:440: to think she 'ad dropped 'em; but, do wot he would, 'e couldn't frighten
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:442: things like that was more than 'e cared to think of.  All the time Ted
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:444: 'ome to supper 'e was so pleased 'e could 'ardly speak.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/8/10786/10786/10786.txt:466: by 'e gives a little laugh, and he ses, "I--I don't think p'r'aps I'll
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/4/10742/10742.txt:51: a b e d e f g h i j k
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/7/4/10742/10742.txt:68: E [Illustration: Eagle.] e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/8/3/10834/10834.txt:71: a b c d e f g h i j k l m n o p q r s t u v w x y z.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/8/3/10834/10834.txt:79: _a b c d e f g h i j k l m n o p q r s t u v w x y z_.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:74: 'e ran into me agin, he said 'e thought I was a sack o' potatoes taking a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:79: more than anything.  All I could do I done, and 'e was ringing the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:91: 'im a little smile as 'e went out.  There is nothing more aggravating
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:98: boy coming along with a bag.  Good-looking lad of about fifteen 'e was,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:99: nicely dressed in a serge suit, and he no sooner gets up to me than 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:139: and pirates and foreign ports.  He said 'e wanted to see the world, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:145: "I tried to explain to 'im who would be doing the heaving, but 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:163: "He didn't seem to like it at fust, and said 'e would write 'imself, but
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:164: arter I 'ad pointed out that 'e might forget and that I was responsible,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:165: 'e gave way and told me that 'is father was named Mr. Watson, and he kept
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:169: 'im to stay where 'e was on the floor, out of sight of the window, while
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:212: "He seemed so upset that I thought 'e was going to 'ave a fit at fust,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:227: fust, and then one o' the gals told me that 'e was a bachelor and 'adn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:266: stop, but 'e wouldn't.  He said 'e thought you might be offended with
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:294: mind taking anything 'e likes to give you; he's rolling in money.'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:335: and, instead o' running away as soon as 'e saw me, he rushed right up to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:338: "'Save her!' 'e ses.  'Save 'er!  Help!  Help!'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:346: 'arf-tide.  Then 'e caught 'old of me agin.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:367: with a boat-hook.  Twice 'e said he thought 'e touched something, but it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:368: turned out as 'e was mistaken.  His face got longer and longer and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:375: "He 'ad another go with the boat-hook arter they 'ad gone; then 'e gave
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/7/10572/10572/10572.txt:430: back a bit and told 'em, they laughed.  All except the cook, and 'e said
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:65: little craft she was, and 'e was a very nice feller.  Many and many's the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:67: 'ad a cross word was when somebody hid his clay pipe in my beer and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:70: "He 'ad a nice little cottage, 'e told me about, near Hull, and 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:73: all his money when he'd gorn.  Their only fear was that 'e might marry
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:74: agin, and, judging from wot 'e used to tell me about the old man, I
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:99: 'e made it forty-eight years old and fourteen stun.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:104: "His father-in-law came up on deck as 'e spoke, and began to brush
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:105: 'imself all over with a clothesbrush.  Nice-looking little man 'e was,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:135: then, and some o' the words 'e used surprised me.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:149: "He sat there smoking, and I sat there thinking.  Twice 'e spoke to me,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:163: 'ud be best, in case 'e found out.'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:185: been brought up to the public line.  The skipper told me all 'e knew
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:190: 'Duke of Edinburgh' five minutes arter I got there.  Nasty temper 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:192: man 'e tried to sell it to said that it was the one 'e lost last
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:200: had 'ad three 'e began for to take a more cheerful view o' life, and told
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:228: "'You mean to say you don't trust me,' 'e ses, firing up.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:259: a bit short in weight he dropped it in 'is weskit-pocket and said 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:274: and then 'e went down, while I went off outside the gate, so as to be out
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:280: all over, and then 'e gave a fierce, loud cough.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:292: "'Dear me!' ses Uncle Dick, shifting away as far as 'e could.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:300: "Uncle Dick started and turned pale.  Fust 'e seemed as if 'e was going
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:301: to speak, and then 'e thought better of it.  He sat staring at 'Arry as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:302: if 'e couldn't believe his eyes.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:307: "'P'r'aps-p'r'aps 'e didn't know,' ses Uncle Dick, stammering.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:354: "'Arry said 'e would, and then he stood on one side to let 'im pass, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:430: and 'e wouldn't go till he 'ad got it.  The skipper gave way at last, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10569/10569/10569.txt:472: 'e was wrong, but 'e would 'ave it.  I've got a bad memory, so I left it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:64: bet Sam a level 'arf-dollar that 'e wouldn't drink off that pot o' beer
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:100: thought about 'em.  And he said 'e never wanted to see wot they called
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:118: of 'is nice warm bed.  The more 'e thought of it the nicer and warmer it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:122: "The room was dark when 'e got there, and, arter standing listening a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:130: Then 'e saw it was a stranger in 'is bed, and without saying a word he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:163: floor, it was a long time afore 'e could get to sleep.  He dropped off at
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:174: hold of 'im by the back o' the neck, shook 'im till 'e was tired.  Then
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:187: and then 'e went back on tip-toe to 'is corner and went to sleep with one
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:311: It spoilt 'is dinner a bit, but arter he got outside 'e saw them standing
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:320: windows until 'e see them coming along as hard as they could come.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:369: told Mr. Brown 'e was paying for 'em, and 'e told the gal wot served 'em
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:370: 'e was paying for 'em, and it was all pore Ginger could do to stop
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:387: give 'em their money when 'e met 'em agin instead of spending it on 'em
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:398: standing 'em a drink.  He told the barmaid 'e was keeping 'em till they
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:471: "He shut the door when 'e got in, and arter Peter 'ad lit the candle they
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10567/10567/10567.txt:507: kicked 'im, but the chap was too quick for 'im.  And then 'e came back,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:81: good advice.  Then he told me one night that 'e was keeping company with
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:85: that 'e had been a silly fool.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:120: finished he said he didn't want that kind of advice at all.  Wot 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:134: of gas.  He came back alone at ha'past eleven that night, and 'e told me
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:160: "It was just about a month arter that that 'e came to me one evening
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:170: forgot, but 'e wouldn't listen.  He was so excited that he didn't seem to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:171: know wot 'e was doing, and arter he 'ad got three more 'arf-pints waiting
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:182: beer 'ad.  When we came outside 'e seemed more contented with 'imself,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:212: "'Bill,' he ses, gabbling as fast as 'e could gabble, 'here's five or six
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:296: "'I thought 'e was married,' ses the cook.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:326: seat while they was drinking it.  I told Miss Lamb in whispers that 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:377: in.  'We shall get out as soon as e comes.'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:442: at the window, threw up his 'ands and staggered back as if 'e couldn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:444: 'e took the key out of the cook's 'and, opened the door, and walked in.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10563/10563/10563.txt:485: music-'all every night of the week if 'e likes.  I've done with her.'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10562/10562/10562.txt:381: "But--but not if 'e was alive!"  said Mr. Kidd.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:69: "Mr. Bunnett 'is name was, and 'e come down and took Farmer Hall's 'ouse
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:70: for the summer.  Over sixty 'e was, and old enough to know better.  He
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:82: ever had; and it wasn't the fust bit o' money 'e made out o' Mr. Bunnett
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:86: so fond of animals as 'e was, and if he had 'ad 'is way Claybury would
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:87: 'ave been overrun by 'em by this time.  The day arter 'e got to the farm
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:91: wegetables and such like, and the way 'e carried on one day over 'arf a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:92: biled caterpillar 'e found in his cabbage wouldn't be believed.  He
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:97: 'e was to see 'ow pore dumb animals was treated.  He made a little speech
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:103: "If he'd ha' known Claybury men better 'e wouldn't ha' done it.  The very
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:139: gold watch 'e was offering, but Bob said he was a busy, 'ard-working man
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:149: 'e went round with the toad on the third day as lively and well as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:178: and he's starving hisself for a bit to get round agin, and 'e knew that
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:179: 'e couldn't trust hisself alongside o' this biskit.  Wot a pity men ain't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:191: "He bid Mr. Bunnett good-bye becos 'e said he'd got to get back to 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:213: day that 'e could ha' found 'omes for 'em ten times over.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:219: he told me 'e hadn't slept a wink ever since.  And he offered to take
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:236: give Bob credit for too much sense to waste time over wot they knew 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:241: and tricks he 'ad of getting money as didn't belong to 'im 'e began to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:242: think different.  He spoke to parson about 'im, and arter that 'e said he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:272: "They all laughed agin, and Bill Chambers laughed so 'arty that 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:304: when.  Dicky said wot 'e was goin' to do with the money, and by an by Sam
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:308: Chambers 'ad stood 'im another, he said 'e would.  He seemed a bit dazed
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:322: "'But 'e can't win,' ses Sam Jones, looking a bit upset.  'Why, Mr.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:323: Bunnett said 'e ought to be locked up.'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:354: at things; and Sam Jones said 'e was going to 'ave a hole bored through
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:371: "Mr. Bunnett just looked at him, and then 'e passed 'im by without a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:404: "Bob said arterwards that 'e was foolish enough to lose 'is presence o'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:470: best mouth of any dog in Claybury, 'e walked 'ome with the old gen'leman
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:471: and got the watch.  He said Mr. Bunnett made a little speech when 'e gave
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:472: it to 'im wot he couldn't remember, and wot he wouldn't repeat if 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/0/5/6/10565/10565/10565.txt:476: money 'e had won, and Bill Chambers made another speech, but, as Smith
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:57: a b d e g h i j k l m n ng
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:270: " e as ey in obey
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/6/8/1/16811/16811.txt:271: " e as e in net
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/7/11073/11073.txt:131: E e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/6/11065/11065.txt:97:       A a   B b   C c   D d   E e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/0/6/11065/11065.txt:109:    _q  o  f  m  e  g  v  p  a  h  n
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:73: darling, and the fuss 'e made o' that cat was sinful.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:79: that 'e promised 'im that he should 'ave the cat along with all the other
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:80: property when 'e was dead.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:109: He could 'ardly speak for a minute, and when 'e could Joe see plain wot a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:110: fool he'd been.  Fust of all 'e called Joe every name he could think of--
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:117: three months arterwards 'e found out.  His uncle 'ad made a new will and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:128: 'e said he didn't mind, and that George Barstow was a old man, and he was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:134: Henery Walker went off, and as 'e passed the cottage where old Clark used
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:135: to live, and which George Barstow 'ad moved into, 'e spoke to the old man
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:147: that if 'e ever accused 'im o' such a thing again he'd knock 'is 'ead
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:150: paying for 'is drink so long as 'e could get anybody else to do it for
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:158: George Barstow took fright when he 'eard of them, and the care 'e took o'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:162: thought to do, 'e told Henery Walker that 'e'd never worked so 'ard in
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:217: that he 'ad caught 'im trying to kill 'is cat and that 'e wouldn't eat
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:220: Bill looked at the butter and then 'e looked at the ten shillings on the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:234: for the sake o' the ten shillings, but when 'e remembered that Bill
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:239: about it 'e wouldn't let it go out of 'is sight, and Joe Clark began to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:240: think that 'e would 'ave to wait longer for that property than 'e had
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:241: thought, arter all.  To 'ear 'im talk anybody'd ha' thought that 'e loved
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:262: 'e does you credit."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:272: surprise; but George Barstow took such care of it 'e never let it out of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:273: 'is sight.  Every time 'e went out he took it with 'im in a hamper, and,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:387: Pretty got up and said 'e was going to see whether George Barstow
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:412: "Has 'e gorn mad?" ses Bill Chambers, staring at 'im.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:417: made sure, but 'e wouldn't."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:425: rushing off as fast as 'e could run to tell George Barstow.  George
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:426: couldn't believe 'im at fust, but when 'e did he swore that if a 'air of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:428: Henery Walker 'ad gone 'e walked round to tell 'im so.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:463: George, 'ardly able to speak, now that 'e fancied the cat was still
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:482: George Barstow walked off 'ome, but he was in such a state o' mind 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:486: hours, 'e came up to this 'ere _Cauliflower_ and offered Bob the fifteen
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:518: everybody 'e see whether they 'ad seen a white cat with one blue eye and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:519: one yaller one, and every time 'e came into the _Cauliflower_ he put his
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:520: 'ead over the bar and called "Puss," 'cos, as 'e said, it was as likely
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:525: dead and 'e wanted 'is property, when he sees a man coming up the road
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/9/11190/11190.txt:526: carrying a basket stop and speak to Bill Chambers.  Just as 'e got near
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:48: butchering, and 'e did very well at it till the police took him up.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:59: everything 'e could lay his tongue to.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:61: One time when 'e was ashore with Peter Russet and Ginger Dick he seemed
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:69: getting it.  As it was, all 'e got was a black eye for shoving another
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:70: man, and for a day or two he was so down-'arted that 'e was no company at
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:73: For three or four days 'e went out by 'imself, and then, all of a sudden,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:99: and arter he'd finished he 'ad such a raging toothache that 'e sat in a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:102: he said 'e was going to bed.  Twenty minutes arterwards, when Ginger Dick
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:106: and they stayed in so long that at last 'e lost 'is temper, and, arter
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:115: arterwards old Sam came out, walking as though 'e was going to catch a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:118: and Ginger was so surprised that 'e pinched Peter Russet to make sure
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:204: of pink vases on the mantelpiece.  Then 'e looked at Mrs. Finch, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:220: "Afore 'e got stout and old," he ses, shaking his 'ead, "there wasn't a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:228: Old Sam was going to say something, but 'e stopped himself just in time.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:264: ship afore 'e was twenty-five."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:276: 'e thought better of it.  Some o' the cocoa 'e was drinking went the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:279: afraid to speak for fear they should let Mrs. Finch know that 'e wasn't a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:295: like a lobster, he said he knew that 'e was a noble-'arted feller who
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:307: That was the last 'e see of it, although he 'ad Sam out o' bed and all
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:316: so big that 'e was lost in it.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:321: for 'er, that he said 'e had picked up.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:415: Ginger 'ad to explain to 'er that 'e was showing Peter Russet a scratch
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:443: He was arf-way home afore 'e thought of the reason for Ginger Dick and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:445: an extent that people thought 'e was mad.  He went off to sleep with the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:447: closing time and 'e woke up and asked them where they'd been, 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:498: Old Sam said that that was wot 'e was going to do, and he spent so much
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11181/11181.txt:562: Ginger--if 'e could get it--he took the fust train to Tilbury and signed
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:74: Sutton.  A real gentleman 'e was, open-'anded and free, and just about
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:84: the ground groaning with 'is eyes shut, and everybody thought 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:85: dying till Henery Walker stooped down and asked 'im whether 'e was hurt.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:91: 'e asked 'em whether they'd gone to sleep or wot.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:96: bill, 'e gave Bill Chambers ten pounds to make up for 'is sufferings.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:104: His face was bandaged up, and when 'e come in he walked feeble-like and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:112: nine o'clock 'e was out of the easy-chair and dancing on the table as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:125: Bill's the fust, but 'e won't be the last--not by a long chalk."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:157: But fust of all 'e asked for a pen and ink, and then he got Smith, the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:161: stopped 'em then, and said six 'ud be enough to go on with; and then 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:183: as fast as 'is legs could carry 'im.  Henery was asleep when 'e got
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:193: Henery Walker was going to say something bad, but 'e thought better of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:226: get to hear of the club.  At last he told Henery Walker that 'e was going
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:229: more than the whole ten pounds then, 'e gave Bob his arf and said he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:233: been treated.  The tears stood in 'is eyes a'most, and at last 'e said
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:234: that if 'e thought there was going to be any more fuss of that kind he'd
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:382: fellers he won't pay them anything.  'Tain't likely 'e would, is it?"
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:392: Henery Walker got up and tried to speak, but 'e couldn't, and he didn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:433: _Cauliflower,_ and 'e was going to give it out to 'em ten shillings a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:458: "Another?" ses Peter, who 'ad been tellin' everybody that 'e wouldn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:477: it.  When 'e came back he'd got the fust week's money for Bob Pretty; but
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11187/11187.txt:479: Jones, he was that upset 'e didn't believe he'd last out the night.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11189/11189.txt:262: myself, 'Poor old Jem,' I ses, 'why should 'e suffer like this when he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11189/11189.txt:367: "He ses you told 'im you p'isoned 'im," said Henshaw, solemnly, "and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11189/11189.txt:412: "I'll go and get 'im out if 'e was five madmen," said the cook,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11184/11184.txt:169: Mr. Grummit winked.  "Yes 'e will if you scream loud enough," he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:82: Sydney 'e got silly on another gal, and started walking out with her, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:99: They was just finishing their tea as 'e got there, and they all seemed so
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:103: that he 'ad got so good-looking 'e shouldn't 'ave known him.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:113: appearances, and all the time 'e was thinking of the other gal waiting
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:146: the rest of your life.  And 'e said he'd been given to understand that
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:147: chandlery wasn't wot it 'ad been, and some of the cleverest people 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:155: Charlie Tagg felt as though 'e could ha' called 'im a lot o' worse things
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:174: to the shop 'e set up a laugh that old Cook said chilled the marrer in
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:188: He stood there on the kerbstone, and all they could do 'e wouldn't budge.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:223: Charlie tried to laugh, but 'e made such a queer noise that young Bill
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:225: his pipe, burnt 'is fingers through not looking wot 'e was doing.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:254: money pretty near sent 'im crazy.  It was all 'e could do to kiss Emma
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:255: good-night, and 'e couldn't have 'elped slamming the front door if he'd
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:268: so disagreeable that Emma told 'im plain the sooner 'e went back to sea
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:270: was George Smith, and 'e used to bring bits out o' newspapers and read to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:276: drank three glasses o' water just out of temper, and to show that 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:278: he'd think it over, and when 'e went away Mrs. Cook called 'im her
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:281: But Charlie Tagg 'ad got better things to do than to dream, and 'e sat up
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:283: money.  When 'e did fall asleep at last 'e dreamt of taking a little farm
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:295: Charlie Tagg went to 'im because he was the only man 'e could trust, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:308: He stood Jack three or four arf-pints afore 'e told 'im his plan, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:330: Cook and Emma could do 'e wouldn't tell them wot was the matter with 'im.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:331: He said 'e didn't want to worry other people with 'is troubles; let
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:335: that 'e spoke.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:356: Mrs. Cook went round to 'is lodgings next morning, but found that 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:372: and he was so down-'arted that 'e gave 'im the chills a'most, He 'ardly
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:388: into the room, and then fell back with a start as 'e saw Charlie Tagg.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:415: "Wot does 'e owe you the money for?" ses Mrs. Cook.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:447: kind.  If Charlie takes my advice 'e won't pay you a farthing.  I should
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:499: at Emma, and with that 'e walked over to Charlie and dumped down the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:506: mad with temper, locking as though 'e could eat Jack Bates without any
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:533: road as if 'e was going for fire-engines.  Charlie sat there for a moment
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/1/8/11183/11183.txt:534: struck all of a heap, and then 'e jumped up and dashed arter 'im.  He
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:70: me on the wharf, 'e made sure that I must 'ave tumbled overboard, as he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:72: my body; but 'e was sorry to find 'e was mistook.  He stood there talking
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:105: tried to hurt my feelings with a few short ones 'e knew.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:112: for me to do it, 'e went back to the ship to put on a clean collar, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:179: cucumber.  The other party stood there watching us, and wot 'e could 'ave
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:198: behind me, and next moment 'e was walking alongside and saying things to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:215: "I thought 'e was going to 'ave a fit.  He 'opped about, waving his arms
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:218: would 'appen if 'e did it agin, I walked off and left him.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:220: "Even then 'e wasn't satisfied, and arter coming on to the wharf and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:255: should ha' lost it with some men, but 'e was a very stiff-built chap and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:263: 'e spoke, and next evening, when I saw 'im walk to the end of the jetty
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:278: used to pass me, as 'e went off of a evening, with a little sly smile on
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:364: He gave a little bit of a start when 'e saw me talking to a lady, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:365: then 'e nips down sudden, about a couple o' yards away, and begins to do
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:367: but 'e finished it at last, and arter a quick look at Mrs. Pratt, and one
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:368: at me that I could ha' smacked his 'ed for, 'e went off whistling and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:392: "He winked at something acrost the river as 'e spoke, and I stood there
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:394: Mrs. Pratt away while 'e was there; besides which I felt quite sartain
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:405: bridge and making as much fuss as if 'e was berthing a liner.  I helped
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:406: to make 'er fast, and the skipper, arter 'e had 'ad a good look round to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:407: see wot 'e could find fault with, went below to clean 'imself.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:411: measles.  Good temper 'e was in, too, and arter pulling the office-boy's
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:412: ear, gentle, as 'e was passing, he stopped for a moment to 'ave a word
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:418: better when 'e knows there's somebody watching 'im.'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:433: "'What for?' 'e ses, shying another piece.  'Why shouldn't I?'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:438: three minutes 'e was dodging me and chucking coke at the empties, with
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:454: and 'e came out agin with 'is eyes rolling and 'is mouth wide open.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:458: "'I--I--I'm sorry, watchman,' ses that beast of a boy, purtending 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:463: "'Wot's the matter?' ses the skipper agin; and as 'e spoke it came over
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:465: man 'e could be when 'e liked.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:491: my arms and trying to get my balance back 'e made a dash for the empties.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:497: he'd ha' done it.  Crazy with passion 'e was, and it was all the four of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:513: just as I was giving the other three a helping 'and, 'e came back with
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11479/11479.txt:514: 'er.  Mrs. Pratt caught 'er breath, and as for the skipper, 'e didn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:42: he is safest when 'e is at sea.  When a fish comes ashore it is in for
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:53: he wastes it; and when 'e don't do either, he loses it.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:56: knowing 'ow easy money goes, 'e made up sixteen pounds in a nice little
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:58: p'r'aps 'e was right.  All I know is, he never found it.  I did the same
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:72: the fourth day Sam Small, arter saying wot 'e would do to Ginger and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:75: His temper passed off arter a time, and 'e began to look cheerful agin.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:131: too, and he 'ad just taken a pull at it and wiped his mouth, when 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:156: temper as 'e spoke about casuals loafing about on Tower Hill with their
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:166: address for luck, 'e said p'r'aps they might as well walk that way as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:212: The docker looked over his shoulder agin, and then 'e put his 'and in his
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:252: hundred pounds to you," 'e ses.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:293: He went to bed afore Ginger and Peter came in, but 'e was so excited he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:296: the locket from under 'is piller and feeling it; then he felt 'e must
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:300: asleep, with their eyes screwed up and their mouths wide open, and 'e sat
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:305: Sam nearly fell off the bed with surprise and temper.  Then 'e hid the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:334: back, very careful.  Sam stood it for 'arf a minute, and then 'e sat up
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:354: in bed and made 'em a little speech.  He said 'e never wanted to see
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:356: 'im in a pail o' cold water when 'e was born 'e couldn't understand.  He
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:357: said 'e didn't believe that even a mother could love a baby that looked
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:358: like a cod-fish with red 'air, and as for Peter Russet, 'e believed his
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:387: Sam sat on the edge of 'is bed like a man in a dream, then 'e began to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:388: make a noise like a cat with a fish-bone in its throat, and then 'e stood
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:408: "Sooner," ses Ginger, nodding.  "But there's no need to do that.  If 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:428: Sam gave way at last, and then 'e stood by making nasty remarks while
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:440: they stayed there some time, 'e didn't turn up.  He wasn't at the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:508: He walked on very thoughtful, and the more 'e thought, the less 'e liked
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:509: it.  He was so pale that Ginger thought 'e was ill and advised 'im to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:522: and at last, 'arf ready to drop, 'e took the train back.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:525: in Bishopsgate, and then 'e started to walk 'ome.  The only comfort he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:528: he got 'ome 'e was beaming all over 'is face.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:558: began to laugh agin, and 'e only stopped when 'e heard Ginger getting out
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:561: He stayed in bed next morning, 'cos he said 'is sides was aching, but 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11471/11471.txt:566: said 'e would give all he 'adn't got for the locket to be near enough to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:73: "As 'e fell overboard," ses the other.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:94: left 'im.  I wasn't wearing it because 'e said 'is uncle wouldn't like
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:123: as if 'e was afraid of being heard.  He wasn't a man I liked, and I was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:136: "So 'e is," ses Joe.  "When I say I've seen 'im I mean that I 'ave seen
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:193: watch and chain from?  And why should 'e go to you about it?  Why didn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:194: 'e come to me?  If 'e thinks I 'ave got it let 'im come to me."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:236: anybody in my life.  I hugged 'im till 'e nearly lost 'is breath, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:271: than a quarter of wot 'e said to me that night.  Arter he thought he 'ad
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:372: the wharf.  Happy as a skylark 'e was, and to see him 'iding behind a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:430: He didn't seem to be able to speak at fust, but arter a time 'e gives a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:443: then 'e puts his 'and into 'is trowsis-pocket and pulls out one shilling
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:450: o' the money when 'e got it, and that I shouldn't see the ghost agin, I
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11474/11474.txt:452: me off, and if ever a man looked puzzled, 'e did.  Pleased at the same
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11475/11475.txt:259: "P'r'aps he'll be ashamed of hisself when 'e comes to think it over," he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:63: faults.  He came in a-purpose to remind me, and 'e brought a couple o'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:68: best to upset me to amuse them two pore objecks 'e 'ad brought with 'im.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:70: Capt'in Mellun is his name, and 'e was always a foolish, soft-'eaded sort
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:74: o' notice of 'im.  Many and many a time when 'e was going to do something
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:85: confidence in 'im, and I told 'im exactly wot I thought of him, 'e didn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:89: the pore man was run over.  He told me 'e should only be away five
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:98: I believe 'e told his 'ands wot I said; anyway, two bits o' coke missed
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:105: just went on with my work as if 'e wasn't there.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:164: relieved that 'e felt like 'arf a pint.  I was for going to the Bear's
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:177: He stood me two 'arf-pints and was just going to order another, when 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:178: found 'e 'adn't got any money left, and he wouldn't hear of me paying for
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:179: it, because 'e said it was his treat.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:212: The words was 'ardly out of my mouth afore 'e gave a lurch and spilt his
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:268: the wharf, and a minute or two arterwards 'e came to the side and said
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:272: 'is miserable little rat-'ole of a cabin and acted as if 'e was a judge
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:330: I said it agin, and, as 'e didn't seem to understand, I said it once
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:333: "Please yourself," 'e ses, when I 'ad finished.  "You're an old man, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:343: deck 'e took the other chaps round to the Bear's Head.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:348: I thought 'e was joking at fust, but arter working it out in the office
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:350: when I complained about the time to George 'e said I could make it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:351: shorter if I liked by paying ten bob a week, but 'e thought the steady
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:358: up at night she was no sooner made fast than 'e was over the side patting
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/7/11472/11472.txt:382: He put it down when 'e see me, and George and the others, wot 'ad been
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:60: overboard while 'e was showing me 'ow he put his wife's mother in 'er
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:100: I don't know 'ow he did it, but 'e did.  He seemed to sink away between
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:135: of my dock, and arter a time 'e said 'e see as 'ow I was waiting to get
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:156: but the landlord, and 'e started at once talking about the thief, and 'ow
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:159: "My opinion is," he ses, "that 'e bolted on one of the wharves and 'id
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:176: with his eyes screwed up as tight as they would go.  Then 'e opened
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:222: it'll cost you a tanner, and 'e wants it now in case you pass away in
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:224: bar, so 'e sent me.  Why!  Halloa!  Where's your boots?  Ain't you afraid
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:228: you're safe, and you tell the landlord that next time 'e insults me I'll
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:230: if 'e wants a tanner out o' me, to come round 'imself, and see wot he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:289: for him to see 'ow clever 'e was.  "Wot about that tanner?  That's wot
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:328: to do anything 'e could to help the law.  I'll beg his pardon tomorrow
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:372: "If he was on the wharf 'e must 'ave made his escape while you was in the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:402: "It is my business," he ses, turning to the landlord.  "Was 'e strange in
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:403: his manner at all when 'e was in your place to-night?"
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:411: good bit, but I never knew of any reason why 'e should try and do away
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:429: The policeman stood there looking at me for a moment, and then 'e began
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:456: Her skipper came on to the wharf just afore ten.  Fat, silly old man 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:458: do it good.  He came up to me slow like, and, when 'e stopped and asked
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:468: I looked at 'im hard, but 'e stood there looking at me with his fat baby-
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:479: bees to sting me, that 'ud cure me.  I don't know what 'e meant by
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/1/4/8/11481/11481.txt:529: He laughed a silly sort o' laugh, and then I'm blest if 'e didn't sit
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/8/9/3/18937/18937.txt:76:   E e   F f
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/8/8/7/18878/18878.txt:330: and the shipments that are ready--i. e., to bring together loads and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:119: e f g h
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:138: a   e   d   n   r   t
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:269: on   log   e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:359: e   x   sh
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:448: let  e   u   ew
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:465: e   i   v
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:574: e       ou
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1189: h  e  n   hen
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1193: p  e  n   pen
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1195: e  y  e   eye
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/6/4/14642/14642.txt:1216: a  b  c  d  e  f  g  h
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/4/1/8/14184/14184.txt:104: e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:68: dressed, clean-shaved chap 'e was, smoking a cigarette.  He was walking
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:116: way, and calling me "Dear boy," 'e led me back to the wharf and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:117: explained.  He said 'e would come round next evening with wot 'e called
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:153: big leather bag.  I took 'im into the private office, and 'e was so
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:162: 'e took a wig out of 'is bag and pressed it on his 'ead, put on the cap,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:164: into the glass together while 'e gave the finishing touches, and then he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:180: for it, but 'e was so pleased with 'imself that I didn't like to tell
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:193: I see the landlord draw the beer and give it to 'im, but 'e didn't seem
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:200: there for a moment smiling at us foolish-like, and then 'e let go o' the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:201: beer-injin, wot 'e was 'olding in 'is left hand, and sat down heavy on
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:203: 'appened to 'im, and 'e started making the most 'orrible noise I 'ave
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:226: They got 'im in arter a lot o' trouble; but three times 'e came back as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/6/12160/12160.txt:260: left 'em at the gate, and then 'e came into the office smiling as if
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:55: Thomas was a man that was getting into years; sixty, I think 'e was, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:57: and as near as we could make out 'e was worth a matter o' six 'undered
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:59: much better off 'e was than any of the rest of us.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:63: Walter Jones, whose family was always ill, and thought 'e knew a lot
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:64: about it, said that 'e knew wot it was, but 'e couldn't remember the name
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:66: see as 'ow 'e was right.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:69: and gave 'im some physic and looked at 'is tongue, and then 'e looked at
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:70: our tongues to see wot the difference was.  Then 'e left the cook in
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:74: that 'e was slipping 'is cable.  He wouldn't believe it at first, though
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:93: the 'ard work 'e'd 'ad saving of it.  And by-and-by 'e got worse, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:96: try all 'e could, Walter couldn't persuade 'im different.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:98: He died the day arter.  In the morning 'e was whimpering about 'is money
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:99: ag'in, and angry with Bill when 'e reminded 'im that 'e couldn't take it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:100: with 'im, and 'e made Bill promise that 'e should be buried just as 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:101: was.  Bill tucked him up arter that, and when 'e felt a canvas belt tied
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:102: round the old man's waist 'e began to see wot 'e was driving at.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:121: Old Thomas seemed to be listening.  'Is eyes was open, and 'e looked
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:124: "Nobody's goin'-to spend-my money," 'e says.  "Nobody's"
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:129: "Go and tell the skipper 'e's gone," 'e says, "and mind, for your own
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:139: Jimmy looked scared, and arter 'e was gone I turned to Bill, and I looks
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:156: I thought he'd ha' choked, and the langwidge 'e see fit to use was a'most
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:159: "Very well, then," 'e says, at last, "halves it is.  It ain't robbery
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:160: becos it belongs to nobody, and it ain't the boy's becos 'e was told to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:164: put 'is 'and on the boy's shoulder as they walked for'ard and 'e says,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:175: last Bill sat down and swore 'e must ha' got it about 'im.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:179: then we went back to our side and Bill said wot 'e thought about Jimmy in
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:186: any longer, and 'e went over on tiptoe to the bunk ag'in.  He was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:201: Bill gave it up for that night, but the next day 'e pretended to think
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:202: Jimmy was gettin' fat an' 'e caught 'old of 'im and prodded 'im all over.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:203: He thought 'e felt something round 'is waist, but 'e couldn't be sure,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:207: good deal more than 'e used to, and 'e got an idea that the boy might ha'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:210: seaman, and it began to be quite noticeable the way 'e avoided Bill.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:221: 'is bunk while 'e was putting 'em on ag'in.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:246: I could see as 'ow the boy 'adn't thought o' that, and try as 'e would 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:247: couldn't 'ide 'is feelin's.  He called Bill a red-nosed shark, and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:260: Bill looked at 'im and then 'e steps to the ladder.  "I'm not going to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:261: talk to you any more, my lad," 'e says.  "I'm going to tell the skipper."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:263: He went up slowly, and just as 'e reached the deck Jimmy started up and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:311: overboard that 'e was losing sight o' the difficulty o' getting at it.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:312: In a day or two, 'owever, 'e see it as plain as me and Jimmy did, and, as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:314: every chance 'e got.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:319: day while Bill was at the wheel to look for 'is knife, wot 'e thought
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:328: Bill's fault, and 'e said it was the boy's.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:332: down the companion-way, and injure 'isself so severely that 'e can't be
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:338: "Ho," says Bill, looking at me as if 'e would eat me.  "Why don't you do
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:352: the Channel 'e tried 'is plan.  He was in the second mate's watch, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:353: by-and-by 'e leans over the wheel and says to 'im in a low voice, "This
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:368: The second mate coughed, but Bill could see as 'e was a bit pleased.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:378: keepsake." The second mate shook 'is 'ead.  "I'm sorry, Bill," 'e says,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:392: far as 'e could make out from Jimmy, the mattress was worth about
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:408: Bill promised 'im like a shot, and when 'e told me about it 'e was nearly
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:411: "And mind," 'e says, "I've bought that mattress, bought it as it stands,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:417: deceive 'im.  He seemed more suspicious o' Bill than me, and 'e kep'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:432: All the way up the river 'e stuck to Bill, and kept asking 'im wot we
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:438: togs.  Jimmy watched us all the time, and then 'e comes up to Bill biting
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:452: "'Ere you are, Bill," 'e says.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:454: "Much obliged, sir," says Bill, and 'is 'ands trembled so as 'e could
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:455: 'ardly 'old it, and 'e made to go off afore Jimmy come on deck.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:457: Then that fool of a mate kept us there while 'e made a little speech.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:458: Twice Bill made to go off, but 'e put 'is 'and on 'is arm and kept 'im
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:459: there while 'e told 'im 'ow he'd always tried to be liked by the men, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:463: we walked forward 'e put 'is arm through Bill's and called 'im all the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:464: names 'e could think of.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:466: "You'd steal the milk out of a cat's saucer," 'e says; "but mind, you
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:485: gone, we went below, and 'e chucked the bundle in 'is bunk.  There was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:487: doing 'is hair 'e nodded to us and went off.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:492: see that money.  Bill went all over it ag'in and ag'in, and then 'e stood
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:495: "Do you think the mate found it?" 'e says, in a 'usky voice.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:499: with a sinking sensation in 'is stummick, 'e went up on deck and I
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12123/12123.txt:504: We never saw that boy ag'in.  He never turned up for 'is box, and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12121/12121.txt:569: "He's all right," said her indignant husband; "'e ain't born to be
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12121/12121.txt:570: drowned, 'e ain't.  I've spoilt a good suit of clothes for nothing."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:97: mouth.  He said that the man frightened the lion first, before 'e did it.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:106: first, 'aving read it in the newspaper while 'e was 'aving his tea.  He
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:112: night thinking 'ow surprised a man would be if 'e come 'ome one night and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:150: taproom, and as soon as he 'eard wot was the matter 'e took down Smith's
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:178: poured brandy down 'is throat, then gin, and then beer, and still 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:184: smile went, then 'is eyes opened, and suddenly 'e sat up with a shiver
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:188: "Then 'e told us 'ow he was sitting washing 'is shirt in a ditch, when he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:190: the hedge the other side.  He left 'is shirt and ran, and 'e said that,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:194: "When 'e 'ad finished Smith went upstairs and looked out of the bedroom
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:195: winders, but 'e couldn't see any signs of the tiger, and 'e said no doubt
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:205: 'e was doing that there was the chance for the others to get 'ome safe.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:226: "Bob Pretty laughed at the whole thing and said 'e didn't believe there
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:227: was a tiger; but nobody minded wot 'e said, Bob Pretty being, as I've
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:232: silly and wish 'e 'adn't talked quite so fast; for at five o'clock
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:240: work 'e put the two little chicks and the feathers into a pudding basin
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:250: the rest of 'em, and he'd be very surprised if 'e popped 'is 'ead in and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:262: every time Frederick stopped to ask 'im wot 'e was doing of 'e gave 'im
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:275: 'ome and killed his pig afore 'e went to work.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:278: 'e drove over to Wickham to tell the police so, but nothing came of it,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:282: 'e 'eard the pig squeal, but there was such a awful snarling noise that
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:283: 'e daresn't move 'and or foot.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:288: that if 'e got inside he might take something else instead o' pig.  And
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:302: for a pot o' ale and drank it nearly off, and then 'e sat gasping and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:315: 'e give such a terrible start that 'e frightened us 'arf out of our wits.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:319: the trees in Plashett's Wood until 'e managed to climb up a tree and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:323: "It was a merciful escape, and everybody said so except Sam Jones, and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:325: 'e disbelieved 'is word.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:337: all.  He sat still, looking at Bob Pretty, and at last 'e ses, 'Where was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:338: you?' 'e s,es.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:343: "Henery Walker, wot was drinking some beer, choked a bit, and then 'e put
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:345: I knew 'e didn't like Bob Pretty, but I couldn't see why 'e should be
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:346: cross about 'is speaking up for 'im as 'e had done, but Bob said as it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:347: was 'is modesty, and 'e thought more of 'im for it.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:369: "He was a quiet man, was George, but when 'is temper was up 'e didn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:370: care for anything.  Afore he came to Claybury 'e 'ad been in the Militia,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:371: and that evening at the 'Cauliflower' 'e turned up with a gun over 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:374: said 'e would, then another man offered, until at last there was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:385: shoulder with Bill Chambers about the way 'e was carrying 'is pitchfork.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:397: Parsley coming along on two sticks as fast as 'e could come.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:423: "'What the dickens!' 'e ses, starting back as 'e see the guns and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:445: "George Kettle opened the door wot led into the kitchen, and then 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:448: speak, but couldn't.  All 'e could do was to point with 'is finger at Bob
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/2/12128/12128.txt:506: and shutting 'is mouth, and at last 'e went outside without saying a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:70: Belle.  Her father, Cap'n Butt, was a widow-man, and 'e used to bring
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:71: her with 'im, partly for company and partly because 'e could keep 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:77: looking--she'd smile back.  Once, when 'e was down below, she laughed
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:80: asking 'im.  When she went out 'e was with 'er, and, from one or two
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:87: by the nice way 'e spoke, that he wanted me to do something for 'im.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:145: monkey-faced imitation of a man.  Here 'e is.  That's his likeness.'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:176: "'Wot time'll you be back?' I ses, as 'e stepped through the wicket.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:412: agin the side, and afore I 'ad any idea of wot 'e was up to he shoved
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12152/12152.txt:417: "I couldn't speak for a time, and when I could 'e stopped me with the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:53: look so honest as they did one day when 'e was sitting on a pound o'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:62: Some people used to wink when 'e talked like that, but I didn't: I
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:77: careless that 'e licked the biscuit a'most as much as he did his 'and,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:128: The man took up 'is beer and looked at 'em; then 'e took a drink and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:131: "I could see 'e was very valuable," he ses.  "I see that the moment I
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:153: fancy to the dog that 'e offered Ginger five shillings for it and drinks
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:163: dragged along on its stummick.  He didn't know its name, but 'e called
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:188: push that dog upstairs, and Ginger took a dislike to dogs that 'e never
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:204: pushed 'im off 'e seemed to think he was having a game with 'im, and,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:214: 'is mind, and if 'e woke 'em up once by standing on his 'ind-legs and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:246: "He's got a touch o' toothache," ses Sam.  "Never mind, Ginger," 'e ses
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:249: "He's a coward, that's wot 'e is," ses the landlady, very fierce.  "Why,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:256: back to bed, while old Sam talked to Ginger about wot 'e called 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:258: 'e wasn't a fat old man with one foot in the grave.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:282: from all of them.  Unfortunately, 'e wasn't used to haddick bones, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:309: ran away and 'e lost it?"  ses Peter.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:328: They 'ad a miserable day.  When the dog got sick o' sitting in a pub 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:329: made such a noise they 'ad to take 'im out; and when 'e got tired o'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:438: ask the skipper about it, as 'e seemed to know more about dogs than I
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:483: 'ad said 'e wasn't the one.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12153/12153.txt:485: "But 'e said as he thought the collar was his," ses Sam.  "'Ow do you
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12151/12151.txt:301: "Why didn't 'e offer me a bag o' sweets?"
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:48: not because 'e wants to, but because somebody else wants 'im to.  And
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:60: He didn't marry until 'e was close on forty; and then 'e made the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:65: For the fust month or two 'e didn't mind it, 'e rather liked being
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:68: that 'e was too handsome to be trusted out alone; and every trip he made
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:69: 'e had to write up in a book, day by day, wot 'e did with himself.  Even
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:118: "Who gave it you?" ses the skipper, as soon as 'e could speak.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:122: The skipper waved 'im away, and then 'e walked up and down the deck like
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:234: He walked off with his 'ead in the air, and if 'e took that letter out
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:244: He stared at me nasty for a moment, and then 'e ses: "You ain't seen any
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:259: wanted to meet Dorothy and tell 'er that 'e was married, and that he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:292: --that it might ha' been worse, 'e said I didn't know wot I was talking
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:457: I left 'em standing side by side, looking at the skipper as if 'e was a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12157/12157.txt:459: same persition, and 'e was smoking with 'is eyes shut.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:48: wonder wot 'e ever saw in her.  If a man marries he wishes he 'adn't,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:53: about 'is relations, but there was a sister of 'is in the country wot 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:54: was rather fond of because 'e 'adn't seen 'er for twenty years.  She 'ad
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:55: got a boy wot 'ad just got a job in London, and when 'e wrote and told
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:62: asking Ginger how 'e spelt "minx," 'e read the letter out loud to them
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:96: The nevy came round next evening.  Bright, cheerful young chap 'e was,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:144: "They do it to flatter," ses old Sam, looking as if 'e knew all about
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:162: Ginger 'arf got up, but Sam gave him a look and 'e sat down agin, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:180: gal could look at a man under thirty, 'e couldn't think.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:184: and they 'ad to sit in a row on the nevy's bed waiting while 'e cleaned
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:185: 'imself, and changed his clothes.  Although it was only Wednesday 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:193: in time and 'e called him something under 'is breath instead.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:225: other and began to laugh till Ginger forgot where 'e was and offered to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:237: roundabout till 'e didn't know whether he was on his 'eels or his 'ead,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:248: that 'e plucked up 'is courage and offered to take Miss Gill to the Zoo.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:251: Joe was at work all day and couldn't take 'er 'imself, and that 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:265: off 'er, as the saying goes, and 'e sat by 'er side on the top of the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:326: 'ome, she 'ad turned so quiet that Ginger began to think 'e must 'ave
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:413: he kissed it, and the next moment 'e got a clout that made his 'ead
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:426: 'e ought to be taken up.  Wot d'ye mean by it?"  she ses, turning on
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:430: arterwards 'e was walking back to 'is lodgings like a dog with its tail
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:432: and 'e was in such a temper that 'e barged into a man twice as big as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:433: himself and then offered to knock his 'ead off when 'e objected.  And
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:435: of mind it was all 'e could do to answer 'em.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:440: Peter paid it over like a lamb, and then 'e sat thinking 'ard for a bit.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/1/5/12159/12159.txt:448: Peter looked at 'im and then 'e looked at Sam and winked.  "Let me 'ave
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:46: believer in it, and 'e used to do all sorts of things to save hisself
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:55: his perliteness was because 'e thought 'arf of 'em was witches, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:63: Some of 'em was free-spoken women, and 'e couldn't sleep for thinking of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:67: seemed to go on very prosperous-like, 'e began to forget 'is fears, when
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:68: all of a sudden 'e went 'ome one day and found 'is wife in bed with a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:74: 'e knew better, and that they'd kept that broken chair for standing on
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:85: mother, and he wouldn't 'ave had 'er in the house on'y 'e wanted her to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:87: waiting on 'e couldn't dislike her enough.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:90: and when 'e went out a morning or two arterward and found 'is best pig
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:94: crying together, and Joe Barlcomb, when 'e thought of 'is pig, he sat
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:109: Mrs. Prince was sitting at 'er front door nursing 'er three cats when 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:162: and at last she came back and sat staring at Joe for so long that 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:204: in the doorway with a cat on each shoulder and watched 'im till 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:248: about it.  The fuss 'e made was terrible.  The shillings was in a little
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:251: police.  At last, however, 'e saw wot a fool he was making of himself,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:252: and arter nearly breaking his teeth 'e dropped them into a drawer and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:293: Joe promised her agin, and 'e went off and borrered a clock from Albert
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:320: wot he'd got to say as 'e 'adn't got much on and the weather wasn't as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:350: voice for ten minutes, and then 'e pulled the winder to with a bang and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:355: most fuss.  Arter he 'ad left Jasper Potts 'e got more puzzled than ever,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:361: fuss than 'e could fly.  There didn't seem to be a pin to choose between
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:376: and moaning.  Joe stood as if 'e'd been frozen a'most, and then 'e crept
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:427: some more gin in it he said that 'e was the noblest-'arted man that ever
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:437: the bottle as if 'e couldn't believe his eyesight.  His face was all
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:446: POISON FOR BILL JONES," he ses, in a voice as if 'e couldn't believe it.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:461: round the bar and asked Bill to go and die outside, because 'e didn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12206/12206.txt:492: The doctor pushed 'em out of the way in a moment, and then 'e bent over
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:69: rejoin the ship when she sailed agin, and 'e offered to take a room
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:70: ashore with them and mind their money, giving 'em what 'e called a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:81: seemed so fair-minded about wot 'e called moderate drinking that they
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:95: in about 'arf a minute, 'e got such a raging thirst on 'im that 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:96: couldn't sit still, and 'e whispered to Peter Russet to go out with 'im.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:100: of the pot as 'e goes to drink."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:104: "Arter that 'e kills 'is mother with a razor," ses old Isaac, pleading
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:107: Ginger Dick sat down agin, and when the murder was over 'e said it made
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:114: "This comes o' listening to a parcel o' teetotalers," 'e ses, very cross,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:115: when 'e found that Peter 'ad spent all 'is money too.  "Here we are just
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:120: charge of their money themselves 'e kept dropping off to sleep agin and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:126: but 'e wasn't best pleased to see old Isaac a-smiling in 'is sleep, as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:127: though 'e was 'aving amusing dreams.  All Ginger found was a ha'-penny, a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:128: bunch o' keys, and a cough lozenge.  In the coat and waistcoat 'e found a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:130: other rubbish.  Then 'e set down on the foot o' their bed and made eyes
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:146: "He's shamming, that's wot 'e is," ses Peter Russet.  "Let's look for it.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:150: a match and looked up the chimney, but all 'e found was that it 'adn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:151: been swept for about twenty years, and wot with temper and soot 'e looked
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:179: He pushed some o' the things into a corner and then 'e spat on 'is 'ands,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:183: "I ain't hit a man for five years," 'e ses, still dancing up and down--
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:188: [Illustration: "I ain't hit a man for five years," 'e ses, still dancing
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:199: until 'e fell in a heap in the fireplace.  It was like a kick from a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:200: 'orse, and Peter looked very serious as 'e picked 'im up and dusted 'im
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:207: He went at the old man agin, but 'e never 'ad a chance, and in about
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:208: three minutes 'e was very glad to let Peter 'elp 'im into bed.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:230: over Ginger, who 'adn't spoke a word till then, said that 'e and Peter
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:248: 'e couldn't.  Then Peter Russet swallered something 'e was going to say
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:250: going down to Colchester to see 'is mother, and 'e didn't want to go
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:263: and smashed 'arf the crockery.  He asked Isaac whether 'e thought 'im and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:264: Ginger Dick was a couple o' children, and 'e said if 'e didn't give 'em
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:280: Peter said 'e didn't care twopence if 'e'd got fifty papers, and they
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:288: "'Tain't likely to be," ses Peter, beginning to wish 'e 'adn't been so
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:303: show 'im 'ow 'e was beginning to like it, and when the old man gave 'em
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:304: their eighteen-pences 'e smiled and said 'e'd like a few shillings extra
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:332: Isaac tried to talk to 'im, but 'e wouldn't listen, and he made such a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:348: clothes.  At first 'e thought that Ginger 'ad gone mad, taking care of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:349: the old man's things like that, but afore 'e could speak Ginger noticed
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:350: that 'e was awake, and stepped over to 'im and whispered to 'im to dress
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:351: without making a noise.  Peter did as 'e was told, and, more puzzled than
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:355: "Going to 'ide 'is clothes?" 'e ses.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:360: Then Peter see the joke and 'e begun to laugh so 'ard that Ginger 'ad to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:376: Old Isaac was in bed when they got there, and the temper 'e was in was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:377: shocking; but Ginger sat on 'is bed and smiled at 'im as if 'e was saying
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:383: Ginger smiled at 'im; then 'e shut 'is eyes and dropped off to sleep.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:390: It was a long time afore Peter could understand wot 'e meant, but as soon
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:391: as 'e did 'e started to look for 'em.  Drink takes people in different
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:408: undressed--and then 'e took the pawn-ticket out and threw it on the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:409: floor.  Isaac picked it up, and then 'e began to dance about the room as
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:442: shillings wot was wanted, and Ginger was so upset that 'e took no notice
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:456: First of all 'e wanted Peter's clothes to be took instead of 'is, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:458: 'e 'ad a lot o' nasty things to say about wearing such old rags, and at
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:459: last, in a terrible temper, 'e took 'is clothes off and pitched 'em in a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:462: "If you ain't back in arf an hour, Peter," 'e ses, scowling at 'im,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:475: dashed 'em on the floor, and told Isaac some of the things 'e thought of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:479: slow and careful in Peter's clothes, and then 'e drove 'em nearly crazy
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:485: "I sha'n't forget it," ses Isaac, and 'e came back to the door after 'e'd
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:487: 'e was away.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:493: very low spirits and Ginger was so mad 'e was afraid to speak to 'im.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:498: into the road, and from the way 'e was smiling they thought it must be
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:530: "Old clothes?" ses Ginger, in a voice as if 'e was being suffocated.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:540: to put Ginger's blanket a little more round 'is shoulders, for fear 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:541: should catch cold, 'e said 'e'd ask the landlady to send 'em up some
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:544: They 'eard 'im talking to the landlady at the door, and then 'e went off
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:551: that Isaac 'ad been deceiving them, and Peter was pretty certain that 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12201/12201.txt:552: took the money out of the bed while 'e was fussing about making it.  Old
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:49: and called me "Old Truthfulness" as 'e passed is the worst one I know.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:51: ever lived in Claybury 'e is the worst--never did a honest day's work in
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:60: began to look up.  Pheasants was 'is favourites, and 'e spent no end o'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:64: all 'e could do didn't seem to make much difference; things disappeared
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:74: Bob Pretty wouldn't believe it; he said 'e couldn't.  And even when it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:103: Bob Pretty said 'e wouldn't go, but they forced 'im along and took 'im
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:106: keepers, and 'e warned Bob solemn not to speak becos all 'e said would be
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:150: He walked off 'ome with his 'ead up as high as 'e could hold it, and the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:151: airs 'e used to give 'imself arter this was terrible for to behold.  He
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:153: that 'e'd overlook it this time, but 'e couldn't promise for the future.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:159: 'ave cleared out all the poachers for miles round the place 'e came from,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:163: little red beard.  The second day 'e came 'e was up here at this 'ere
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:167: Pretty stared at 'im as if 'e was a wax-works.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:218: Mr. Cutts went black in the face a'most and stared at Bob Pretty as if 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:242: Sometimes Mr. Cutts watched in the plantations, and sometimes 'e hid
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:243: 'imself near Bob's house, and at last one night, when 'e was crouching
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:244: behind the fence of Frederick Scott's front garden, 'e saw Bob Pretty
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:260: fine night for a stroll it was, and asked 'im whether 'e was waiting for
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:261: Frederick Scott's aunt.  Mr. Cutts didn't answer 'im a word; 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:263: Pretty's face, and then 'e went off stamping down the road as if 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:267: Keeper Lewis got rheumatic fever, which 'e put down to sitting about
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:268: night arter night in damp places watching for Bob, and, while 'e was in
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:274: a feather in 'is cap it would be if 'e did wot the other two couldn't do,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:275: and caught Bob Pretty.  It was all very well, but, as Smith said, wot 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:278: tell you that 'e fell asleep in this public-'ouse one night while the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:279: landlord was drawing a pint o' beer he 'ad ordered, you'll know wot 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:282: O' course, all this suited Bob Pretty as well as could be, and 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:284: Chambers told 'im 'e was foolhardy 'e only laughed and said 'e knew wot
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:285: 'e was about.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:287: But the very next night 'e had reason to remember Bill Chambers's words.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:289: plantation--and, so far from being nervous, 'e was actually a-whistling.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:290: He'd got a sack over 'is shoulder, loaded as full as it could be, and 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:296: Bob Pretty just gave one look and then 'e dropped 'is pipe and set off
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:298: keeper, 'ad recognised 'im and called 'im by name, so 'e just put 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:300: 'adn't ha' been for the sack 'e could 'ave got clear away.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:302: As it was, 'e ran for pretty near a mile, and they could 'ear 'im
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:303: breathing like a pair o' bellows; but at last 'e saw that the game was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:305: then, waving the sack round his 'ead, 'e flung it into the middle of it,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:345: eye, but he 'adn't got any answer.  Then 'e sat biting his finger-nails
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:351: "Make 'im go in for it," ses Lewis, looking at Bob; "'e chucked it in."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:368: "Whereabouts did 'e pitch it in?"  ses Lewis.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:370: Bob Pretty pointed with 'is finger exactly where 'e thought it was, but
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:374: [Illustration: "Bob Pretty pointed with 'is finger exactly where 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:384: very slowly and then 'e put one foot in and stood shivering, although
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:394: Lewis tried the middle, and 'e stood there up to 'is neck, feeling about
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:408: sack to watch the struggle.  Bob Pretty fought 'ard, and once or twice 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:409: nearly tumbled Mr. Cutts into the pond, but at last 'e gave in and lay
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:412: to walk to.  The last place 'e pointed to wanted a much taller man, but
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:413: it wasn't found out till too late, and the fuss Keeper Lewis made when 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:423: 'is pocket-'andkerchief, and then with 'is teeth chattering 'e began to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:424: dress 'imself.  He got 'is shirt on, and then 'e stood turning over 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:425: clothes as if 'e was looking for something.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:477: Then Bob Pretty lost 'is temper, and the things 'e said about Mr. Cutts
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:514: string that tied up the mouth o' the sack, and then 'e started back as if
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:525: Bob Pretty, 'e stood staring at them cabbages as if 'e couldn't believe
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:548: not to notice Henery Walker touching 'is cap to him, and then 'e turns to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12209/12209.txt:551: "Come along, old gal," 'e ses.  "I want my breakfast bad, and arter that
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12207/12207.txt:493: flushed and dishevelled Richard; "'e left me and my five eighteen months
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:44: name of Bill Burton, a ship-mate of Ginger Dick's.  For that matter 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:62: The only thing about 'im that they didn't like was that 'e was a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:66: lemonade every time they 'ad a drink.  One night arter 'e had 'ad
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:70: Bill's stomach, and that if 'e kept on 'e might drop down dead at any
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:74: lemonade, 'e had five bottles o' stone ginger-beer, six of different
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:78: that 'e began to be afraid he'd 'ave to give up drink altogether.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:80: He went without the next night, but 'e was such a generous man that 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:143: Ginger was surprised to see the way 'e took his liquor.  Arter three or
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:145: something o' the kind, but Bill kept on as if 'e was drinking water.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:179: "Three 'arf pints o' four ale, miss," ses Sam, not because 'e was mean,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:191: Peter's neck and began to cry a bit and say 'e was the only pal he'd got
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:200: Bill said he was, and 'e asked the barman to go and hide 'is face because
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:201: it reminded 'im of a little dog 'e had 'ad once wot 'ad died.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:233: loud whether 'e ought to pay 'im a bit more or not.  Afore 'e could make
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:260: at their pore faces as if 'e was having a 'orrible dream.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:326: Bill gave a groan and sat on the bed while 'e dried himself, and Ginger
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:330: lay 'e could 'ardly thank 'im enough.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:337: Ginger was gone about two hours, and when 'e came back he looked so
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:345: 'e got up and patted Bill on the back, very gentle, and sat down again.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:360: in was London.  Bill gave a dreadful groan when 'e said murderer, but 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:363: moustache, and when night came 'e would creep out and take a lodging
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:395: he struggled like a madman, and in five minutes 'e was laying there with
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:399: "I'm very sorry, Ginger," ses Bill, as 'e took a little over eight pounds
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:409: into the room 'e tried all 'e could to attract 'is attention by rolling
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:416: Peter stood staring at the bed, and then 'e pulled the clothes off and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:420: with, and 'e wouldn't lend it to me.  I 'aven't got as much as I want
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:444: 'e put 'im in alongside o' Ginger and covered 'em up, arter first tying
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:452: He stood there for a minute very sorrowful, and then 'e patted both their
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:457: Then Ginger began to wriggle and try and twist the cords off, but 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:473: carrying on agin, and 'e was out o' that door and 'arf-way downstairs
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:483: was dying or whether 'e 'ad got delirium trimmings.  All 'e did know was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:484: that 'e wasn't going to sleep in that room.  He shut the door gently and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:486: one, 'e picked out the softest stair 'e could find and, leaning his 'ead
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:489: [Illustration: "Picked out the softest stair 'e could find."]
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:491: It was about six o'clock when 'e woke up, and broad daylight.  He was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:492: stiff and sore all over, and feeling braver in the light 'e stepped
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:494: 'im, and as he peeped in 'e saw two things sitting up in bed with their
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:496: bandages.  He was that startled 'e nearly screamed, and then 'e stepped
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:503: see wot was the matter with 'em.  Fust thing 'e did was to pull out 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:505: 'im every name 'e could lay his tongue to.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:521: Sam didn't answer 'em; he shut up 'is knife with a click and then 'e sat
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/0/12204/12204.txt:533: prevented it.  He sat there talking as though 'e enjoyed the sound of 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:86: We didn't know 'e was a conjurer at fust, said the old man.  He 'ad come
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:87: down for Wickham Fair and, being a day or two before 'and, 'e was going
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:89: bar 'ere and ordered a mug o' beer, and while 'e was a-drinking of it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:90: stood talking about the weather.  Then 'e asked Bill Chambers to excuse
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:92: a live frog.  Bill was a very partikler man about wot 'e drunk, and I
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:102: Bill said that 'e thought 'e knew who must ha' been asleep, and was just
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:119: Bill Chambers gave a 'owl that was dreadful to listen to, and then 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:122: 'ad pockets in it, and then 'e stuck 'is feet close together and 'e kept
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:134: They didn't understand 'im at fust, but at last they see wot 'e meant,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:137: to fight the conjurer, but 'e was that tired 'e could scarcely stand, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:138: by-and-by Smith, who 'ad said 'e wouldn't 'ave anything to do with it,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:147: arter Henery Walker 'ad sat for some time puzzling over it 'e got up and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:151: some time 'e was that surprised and astonished that Sam Jones lost 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:154: "Not like this," ses the conjurer.  And 'e pulled out a woman's dress and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:155: jacket and a pair o' boots.  Then 'e took out a pound or two o' taters
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:156: and some crusts o' bread and other things, and at last 'e gave it back to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:160: Then 'e asked somebody to lend 'im a watch, and, arter he 'ad promised to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:187: Dicky Weed tried to speak but couldn't, and 'e sat there, with 'is face
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:192: agin the ramrod, and arter he 'ad loaded it 'e walked round and handed it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:200: "I shall now fire this pistol," 'e ses, "and in so doing mend the watch.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:206: He pointed the pistol fust at one and then at another, as if 'e couldn't
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:217: The conjurer pointed the pistol at 'im.  Then 'e pulled the trigger and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:224: and at last 'e broke out of the room and, holding 'is 'andkercher to 'is
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:237: it there when 'e comes to 'is senses."
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:244: "You'd better get 'old of Bob afore 'e finds it out, Dicky," ses Bill
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:274: offer, but 'e wouldn't like any hands but mine to touch 'im.  I'll send
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:295: agin, and then 'e turned to the conjurer, as 'ad come up with the rest of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:300: than you were.  If 'e was, why doesn't he send for the doctor?"
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:315: Mrs. Pretty was up when 'e got there, and arter calling up the stairs to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:329: "Thankee, mate," ses Bob; and 'e lay still and watched Dicky Weed out of
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:351: whether 'e was really shot, but they was all quite certain that,
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:357: Pretty said as 'ow he'd believe it when 'e saw it, and not afore.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:359: He was one o' the fust to turn up that night, because 'e said 'e wanted
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:363: conjurer's table, and watched him as 'ard as he could as 'e went through
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:404: night, that the last time he tried 'e failed, and 'ad to give
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:419: offered it to 'im on the understanding that 'e was on no account to fire
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:425: He 'anded it round, and arter everybody 'ad taken a look at it 'e took it
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:445: 'is arm, but it was too late, and in a terrible state o' mind 'e turned
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:468: "'Ow was I to know wot 'e was going to do?"  ses the conjurer.  "You must
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:471: "All right, John Biggs," ses Bob Pretty; "if 'e won't do it, I will.  If
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:475: John Biggs looked at it, and then 'e asked the conjurer once more to do
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:476: the trick, but 'e wouldn't.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:481: "George Kettle shall load the pistol and fire it if 'e won't," ses Bob
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:488: roll the watch-cases up with the flat-iron afore 'e could get 'em in.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:489: But 'e loaded it at last and stood waiting.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:506: fetch the landlord, and the scream 'e gave as he came back and George
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:509: [Illustration: "The scream 'e gave as George Kettle pointed the pistol at
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:522: all legs and arms, and the way 'e struggled it took four or five men to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:545: "Now," ses the conjurer, as 'e sat down, "all of you go and stand near
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12213/12213.txt:550: o' that chair and set off on the road to Wickham as 'ard as 'e could run.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:56: one chap as was pretty near thirty years old when 'e started.  It's a
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:61: and genteel, and when she died 'e went and married a fine, handsome young
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:73: the sake o' peace and quietness he gave way to 'er till 'e got into the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:136: When 'e came to 'is senses agin the door leading to the bar was shut, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:158: George Dixon didn't say a word; the shame of it was a'most more than 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:159: could stand.  Then 'e got up to go out o' the parlour and Charlie pushed
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:160: 'im back agin.  Three times he tried, and then 'e stood up and looked at
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:178: They kept 'im there all the rest o' the day, and, as 'e was still
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:182: a great deal o' pride and 'e couldn't bear the shame of it.  Instead o'
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:183: that 'e acted like a fourteen-year-old boy and ran away to sea.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:193: California, and that 'e expected to be away a year, or thereabouts.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:196: 'em.  "It's a 'ard life is the sea, and he'll appreciate his 'ome when 'e
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:207: Dixon from her 'usband in which he said that 'e had left the _Seabird_
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:213: boatswain.  He said 'e was now on the _Rochester Castle,_ bound for
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:221: favour to send Uncle Burge and 'is boys away, as 'e didn't want to find
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:222: them there when 'e came home, because they was the cause of all his
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:228: "I'll 'ave a word with 'im when 'e does come home," ses Bob.  "I s'pose
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:254: The man coughed and smiled, and then 'e pushed the door open gently and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:255: came in, and stood there fingering 'is beard as though 'e didn't know wot
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:312: he knew who 'e was.  The old man was still grumbling when Dixon came down
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:331: "Let's 'ope 'e's come back more sensible than wot 'e was when 'e went
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:342: "There's no need for 'im to go there; we managed all right while 'e was
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:380: He looked round at 'is wife, as though 'e expected she'd ask 'im not to
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:385: In two hours 'e was back agin and more cheerful than he 'ad been since he
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:428: key in 'is pocket.  Then 'e put his 'and in 'is pocket and slapped some
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:436: mouth wide open, and pinching 'imself to see whether 'e wasn't dreaming.
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:444: Charlie gave a growl and rushed at 'im, and the next moment 'e was down
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:451: back way, Charlie had 'ad as much as 'e wanted and was lying on the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12210/12210.txt:454: [Illustration: "Charlie had 'ad as much as 'e wanted and was lying on the
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12211/12211.txt:180: "It can't be that tanner 'e owes me," he mused, "and yet I don't know
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12211/12211.txt:290: gone in and pulled 'im out.  He said 'e thought you was drownded, and
+/h/jtak01/comp15/proj2/test-dirs/smallGutenberg/www.gutenberg.lib.md.us/1/2/2/1/12211/12211.txt:311: 'e was at your doing such a thing, and that it only showed 'ow little we
+query not found

@@ -1,0 +1,12 @@
+Author: Comp15 TA or Instructors
+Date: 5/3/2019
+Modified by: Jun Sung Tak
+
+The bigThree were implemented. Destructor was implemented by implementing a helper
+function. This function just deletes all nodes in the linked list and then
+sets the front to NULL. Copy constructor copies the Linked List into the new 
+object from the old object. By copying the front variables it has its own pointer
+to the linked list. The assignement operator was implemented very closely to the 
+copy constructor. But here, it first checks if the object the assignment operator
+is called on is the same as the &source parameter. If it is not the same it will
+delete everything in this and then copy the &source over into this. 

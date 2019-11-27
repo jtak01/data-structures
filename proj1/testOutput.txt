@@ -1,0 +1,42 @@
+ATCTGA inserted
+AATCGT inserted
+AAAAA inserted
+A inserted
+TGTTCA inserted
+AGTCGTA inserted
+AAAC inserted
+AAGTC inserted
+There are 30 nodes in the database
+A
+AAAAA
+AAAC
+AAGTC
+AATCGT
+AGTCGTA
+ATCTGA
+TGTTCA
+AAGTC removed
+A
+AAAAA
+AAAC
+AATCGT
+AGTCGTA
+ATCTGA
+TGTTCA
+There are 27 nodes in the database
+CGTA: No match found
+TTGTCA inserted
+ACTGTC inserted
+CGTCA inserted
+There are 42 nodes in the database
+A
+AAAAA
+AAAC
+AATCGT
+ACTGTC
+AGTCGTA
+ATCTGA
+CGTCA
+TGTTCA
+TTGTCA
+There are 0 nodes in the database

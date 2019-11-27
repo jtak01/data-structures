@@ -1,0 +1,6 @@
+Passenger 3 left train at station 6
+Passenger 4 left train at station 6
+Passenger 5 left train at station 6
+Passenger 6 left train at station 6
+Passenger 7 left train at station 6
+Passenger 8 left train at station 6

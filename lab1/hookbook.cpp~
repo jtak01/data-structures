@@ -1,0 +1,18 @@
+// Name: Jun Sung Tak 
+// Date: 22nd Jan 
+// Assignment: Lab1
+// Course Number: 15
+
+#include "ArrayList.cpp"
+#include "Pirate.cpp"
+
+using namespace std;
+
+int main()
+{
+        Pirate a("Jack");
+        Pirate b("Jim");
+        Pirate c("Jill");
+        Pirate d("Jenny");
+        Pirate e("Jon");
+}

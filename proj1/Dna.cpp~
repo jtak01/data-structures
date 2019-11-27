@@ -1,0 +1,272 @@
+#include <iostream>
+#include <string>
+#include "Dna.h"
+#include <fstream>
+
+using namespace std;
+
+const string INSERT = "i";
+const string REMOVAL = "r";
+const string NUM_NODES = "n";
+const string PRINT = "p";
+const string DELETE = "d";
+const string PASS_FILE = "f";
+
+// Constructor
+Dna::Dna()
+{
+	root = newNode();
+}
+
+Dna::~Dna()
+{
+	deleteAll(root);
+}
+
+void Dna::insert_caller(string word)
+{
+	if (contains(word, root) == true)
+		cout << word << " was previously inserted\n";
+	else if (contains(word, root) == false)
+		cout << word << " inserted\n";
+	insert(word, root);
+}
+
+void Dna::insert(string word, Node *node)
+{
+	if (node -> child[index(word[0])] == NULL and word != ""){	
+		node -> child[index(word[0])] = newNode();
+		node -> child[index(word[0])] -> data = word[0];
+		Node *temp = node -> child[index(word[0])];
+		word.erase(word.begin());
+		insert(word, temp);
+	} else if (node -> child[index(word[0])] != NULL and word != ""){
+		node = node -> child[index(word[0])];
+		word.erase(word.begin());
+		insert(word, node);
+	} else if (word == ""){
+		node -> end = true;
+	}
+	return;
+}
+
+bool Dna::contains(string toFind, Node *node)
+{
+	int length = toFind.size();
+	for (int i = 0; i < length; i++)
+	{
+		if (node -> child[index(toFind[i])] == NULL)
+			return false;
+		node = node -> child[index(toFind[i])];
+	}
+	if (node != NULL and node -> end == true)
+		return true;
+	else 
+		return false;
+}
+
+Node *Dna::newNode()
+{
+
+	Node *temp = new Node;
+	for (int i = 0; i < 4; i++)
+		temp -> child[i] = NULL;
+
+	temp -> data = '0';
+	temp -> end = false;
+	return temp;
+}
+
+int Dna::index(char i)
+{
+	if (i == 'A')
+		return 0;
+	if (i == 'C')
+		return 1;
+	if (i == 'G')
+		return 2;
+	if (i == 'T')
+		return 3;
+	else 
+		return -1;
+}
+
+void Dna::print(char *word, Node *node, int index)
+{
+	//cerr << "Arrived at print\n";
+	if (node == NULL){
+		cerr << "basecase\n";
+		return;
+	}
+	//cerr << "Second condition\n";
+	if (node != NULL and node -> end == true){
+		//cerr << "End mark on node\n";
+		printSeq(word, index);
+	}
+	//cerr << "segfault?\n";
+	for (int i = 0; i < 4; i++){
+		//cerr << "Print for loop\n";
+		if (node -> child[i] != NULL){
+			word[index] = node -> child[i] -> data;
+			print(word, node -> child[i], index + 1);
+		}
+	}
+}
+
+void Dna::printSeq(char *word, int index)
+{
+	//cerr << "printseq called\n";
+	for (int i = 0; i < index; i++){
+		cout << word[i];
+	}
+	cout << endl;
+}
+
+void Dna::nodeCountAux()
+{
+	int nodes = nodeCount(root) - 1;
+	cout << "There are " << nodes << " nodes in the database\n";
+	return;
+}
+
+int Dna::nodeCount(Node *node)
+{
+	int iter = 0;
+	if (node == NULL)
+		return iter;
+	iter = 1;
+	for (int i = 0; i < 4; i++){
+		if (node -> child[i] != NULL)
+			iter = iter + nodeCount(node -> child[i]);
+	}
+	return iter;
+}
+
+Node *Dna::remove(Node *node, string toRemove, int level)
+{
+	int stringSize = toRemove.size();
+	if (node == NULL)
+		return NULL;
+	if (level == stringSize)
+	{
+		if (node -> end == true)
+			node -> end = false;
+		if (empty(node)){
+			delete node;
+			node = NULL;
+		}
+		return node;
+	}
+	node -> child[index(toRemove[level])] = 
+		remove(node -> child[index(toRemove[level])], toRemove, level + 1);
+	return node;
+}
+
+void Dna::remove_caller(string toRemove)
+{
+	if (contains(toRemove, root) == true)
+		cout << toRemove << " removed\n";
+	else if (contains(toRemove, root) == false)
+		cout << toRemove << ": No match found\n";
+	remove(root, toRemove, 0);
+}
+
+bool Dna::empty(Node *node)
+{
+	for (int i = 0; i < 4; i++){
+		if (node -> child[i] != NULL)
+			return false;
+	}
+	return true;
+}
+
+
+//
+void Dna::deleteAll(Node *node)
+{
+	if (node == NULL)
+        return;
+    for (int i = 0; i < 4; i++)
+    {
+    	if (node -> child[i] != NULL)
+    		deleteAll(node -> child[i]);
+    }
+    delete node;
+    root = NULL;
+    return;
+}
+
+void Dna::commandInput(string file)
+{
+	ifstream cmd;
+	cmd.open(file);
+	while(!cmd.eof())
+	{
+		string command, seq;
+		cmd >> command;
+		if (command == INSERT){
+			cmd >> seq;
+			insert_caller(seq);
+		}
+	}
+}
+
+// MAKE HELPER FUNCTION FOR PRINTING ENTIRE STRINGS
+// ORIGINAL STRING + ALL STRINGS FROM THAT NODE
+// COUT << ORIG 
+// COUT << ARR[I]
+// COUT << ENDL;
+bool Dna::preFixQ(string word, Node *node, char *arr, int length, string orig)
+{
+	if (node -> child[index(word[0])] == NULL)
+	{
+		cout << "No matching seq found\n";
+		return false;
+	}
+	if (node -> child[index(word[0])] != NULL and length != 0)
+	{
+		Node *temp = node -> child[index(word[0])];
+		word.erase(word.begin());
+		return preFixQ(word, temp, arr, length - 1, orig);
+	}
+	if (length == 0)
+	{
+		printPreFix(arr, node, 0);
+		return true;
+	}
+	return false; 
+}
+
+// PROB DOESNT WORK RN
+void Dna::printPreFix(char *word, int index, string orig)
+{
+	for (int i = 0; i < index; i++){
+		cout << orig << word[i];
+	}
+	cout << endl;
+}
+
+
+
+
+// Old insert function
+	// if (root == NULL){
+	// 	root = newNode();
+	// 	insert(word, root);
+	// 	return;
+	// }
+	// if (node -> child[index(word[0])] == NULL and word != ""){
+	// 	node -> child[index(word[0])] = newNode();
+		
+	// 	node -> child[index(word[0])] -> data = word[0];
+	// 	Node *temp = node -> child[index(word[0])];
+	// 	word.erase(word.begin());
+	// 	insert(word, temp);
+	// } else if (node -> child[index(word[0])] != NULL and word != ""){
+	// 	node = node -> child[index(word[0])];
+	// 	word.erase(word.begin());
+	// 	insert(word, node);
+	// } else if (word == ""){
+	// 	node -> end = true;
+	// }
+	// return;
